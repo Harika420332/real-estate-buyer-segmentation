@@ -1,0 +1,1501 @@
+client_id,client_type,gender,country,region,acquisition_purpose,loan_applied,age,annual_income,satisfaction_score,property_budget,investment_amount,cluster,buyer_segment
+C0001,Investor,Female,UK,Europe,Investment,Yes,48,3133932,5,14807664,20121356,0,High-Value Investment Buyers
+C0002,Individual,Male,Singapore,North America,Personal Use,Yes,59,721747,9,41732072,1587462,2,Premium Property Buyers
+C0003,Investor,Male,Singapore,South India,Investment,No,34,2595902,3,13902284,24968417,1,Young Investment Buyers
+C0004,Investor,Male,USA,South India,Investment,No,41,2944517,3,47433953,13701220,2,Premium Property Buyers
+C0005,Individual,Male,USA,Asia Pacific,Investment,No,50,1381258,1,37438749,4172689,2,Premium Property Buyers
+C0006,Individual,Male,Singapore,Asia Pacific,Commercial,Yes,41,4723190,9,40930236,18229610,1,Young Investment Buyers
+C0007,Investor,Female,India,Europe,Rental,No,29,4523475,6,10550616,23384041,3,Mature Investment Buyers
+C0008,Corporate,Male,Singapore,North India,Personal Use,No,37,3619567,2,24507905,15417690,1,Young Investment Buyers
+C0009,Investor,Male,Singapore,West India,Investment,No,25,4461862,8,19681983,17107617,3,Mature Investment Buyers
+C0010,Investor,Male,USA,West India,Rental,No,51,1083061,9,10023331,12544302,3,Mature Investment Buyers
+C0011,Investor,Male,USA,Asia Pacific,Rental,No,60,396412,9,9070161,896904,3,Mature Investment Buyers
+C0012,Investor,Female,Singapore,North India,Commercial,Yes,58,2671703,2,38788157,6280833,2,Premium Property Buyers
+C0013,Individual,Female,Singapore,Asia Pacific,Personal Use,Yes,63,2485632,2,11568056,4665666,0,High-Value Investment Buyers
+C0014,Investor,Female,Singapore,West India,Commercial,Yes,39,2987225,7,47753712,9314324,2,Premium Property Buyers
+C0015,Corporate,Female,USA,North America,Rental,Yes,56,3332860,4,11640981,9448693,0,High-Value Investment Buyers
+C0016,Individual,Male,Singapore,Asia Pacific,Rental,No,53,2795563,1,20216272,23260222,0,High-Value Investment Buyers
+C0017,Corporate,Female,Singapore,Middle East,Rental,Yes,33,1598118,8,14968904,6685430,3,Mature Investment Buyers
+C0018,Corporate,Male,UAE,North America,Commercial,No,34,1900831,2,19024141,10563811,3,Mature Investment Buyers
+C0019,Corporate,Male,India,Asia Pacific,Personal Use,Yes,53,1694362,3,48740551,6380599,2,Premium Property Buyers
+C0020,Corporate,Male,UK,Europe,Investment,Yes,49,3840214,5,13549906,8072307,0,High-Value Investment Buyers
+C0021,Individual,Male,India,Asia Pacific,Commercial,Yes,63,2168710,3,9736605,5097158,0,High-Value Investment Buyers
+C0022,Individual,Male,UAE,Europe,Rental,No,56,3746313,7,29662982,6550485,2,Premium Property Buyers
+C0023,Corporate,Female,UK,North India,Commercial,No,64,1107705,7,23858746,15848646,0,High-Value Investment Buyers
+C0024,Corporate,Female,Singapore,West India,Rental,Yes,30,2882540,2,24766009,681136,2,Premium Property Buyers
+C0025,Individual,Female,UAE,North America,Investment,No,51,416790,7,36953689,14299570,1,Young Investment Buyers
+C0026,Individual,Female,Singapore,North America,Investment,Yes,26,2016195,6,12017191,15722447,3,Mature Investment Buyers
+C0027,Individual,Male,USA,South India,Personal Use,Yes,21,3647480,10,16465773,5866434,3,Mature Investment Buyers
+C0028,Investor,Female,UAE,South India,Rental,Yes,27,3887415,9,31840949,19769023,1,Young Investment Buyers
+C0029,Investor,Male,USA,West India,Personal Use,No,47,145712,9,25871114,11897806,3,Mature Investment Buyers
+C0030,Investor,Female,UAE,South India,Personal Use,Yes,41,2596641,2,38198605,19085069,1,Young Investment Buyers
+C0031,Corporate,Male,UAE,North America,Investment,Yes,48,4628268,7,24577428,15658830,0,High-Value Investment Buyers
+C0032,Investor,Male,USA,Asia Pacific,Commercial,Yes,36,2322494,5,18131778,9811487,3,Mature Investment Buyers
+C0033,Corporate,Female,UK,North India,Commercial,No,43,1764092,6,41316540,14744799,1,Young Investment Buyers
+C0034,Corporate,Male,India,North India,Personal Use,Yes,40,4630801,1,23669724,14762957,0,High-Value Investment Buyers
+C0035,Investor,Male,Singapore,West India,Investment,No,58,587707,7,32859798,7013766,2,Premium Property Buyers
+C0036,Corporate,Female,UAE,South India,Rental,Yes,45,192091,6,43546764,22278552,1,Young Investment Buyers
+C0037,Investor,Male,Singapore,Asia Pacific,Commercial,No,48,993150,4,28658315,23308994,1,Young Investment Buyers
+C0038,Investor,Female,USA,North India,Personal Use,Yes,25,635827,1,25120689,21203581,1,Young Investment Buyers
+C0039,Individual,Female,Singapore,North India,Commercial,Yes,41,1032196,9,23724228,11485104,3,Mature Investment Buyers
+C0040,Investor,Female,USA,Middle East,Commercial,No,38,2149736,4,16923274,10637641,3,Mature Investment Buyers
+C0041,Individual,Male,Singapore,Middle East,Rental,No,26,4040063,2,18439546,3493518,3,Mature Investment Buyers
+C0042,Investor,Male,India,North America,Investment,Yes,49,521743,8,9871482,22167768,0,High-Value Investment Buyers
+C0043,Investor,Male,India,North India,Rental,No,39,1663482,2,25970729,6493265,2,Premium Property Buyers
+C0044,Individual,Female,India,West India,Investment,Yes,53,1730872,5,42280046,1557980,2,Premium Property Buyers
+C0045,Individual,Male,India,Europe,Commercial,Yes,21,1625068,6,26098829,2532479,3,Mature Investment Buyers
+C0046,Investor,Female,India,Europe,Personal Use,Yes,65,4714228,8,35050416,21060419,0,High-Value Investment Buyers
+C0047,Corporate,Female,India,Asia Pacific,Rental,No,23,2264452,1,28253353,1396881,2,Premium Property Buyers
+C0048,Individual,Male,USA,North India,Investment,Yes,62,4685711,1,8700568,18877764,0,High-Value Investment Buyers
+C0049,Corporate,Female,UAE,North India,Commercial,No,41,4234777,4,17565280,2141455,3,Mature Investment Buyers
+C0050,Corporate,Male,Singapore,North America,Investment,Yes,55,3437013,5,38957984,24999213,1,Young Investment Buyers
+C0051,Corporate,Male,India,North India,Investment,No,61,4074532,9,35717885,5427386,2,Premium Property Buyers
+C0052,Individual,Male,USA,West India,Investment,No,60,3344699,7,14455545,764826,0,High-Value Investment Buyers
+C0053,Corporate,Male,USA,Middle East,Commercial,Yes,23,3183562,7,36236471,16339826,1,Young Investment Buyers
+C0054,Individual,Male,USA,North India,Personal Use,No,45,2235896,8,31288869,20141837,1,Young Investment Buyers
+C0055,Corporate,Female,UAE,North India,Personal Use,Yes,65,4672530,5,34910232,4191848,2,Premium Property Buyers
+C0056,Investor,Female,Singapore,North America,Personal Use,Yes,58,2516738,5,42371139,8381317,2,Premium Property Buyers
+C0057,Investor,Female,UAE,South India,Investment,Yes,65,2807430,1,30400119,14428272,0,High-Value Investment Buyers
+C0058,Individual,Male,UK,North America,Commercial,Yes,40,2056678,9,34386947,6212978,2,Premium Property Buyers
+C0059,Investor,Male,USA,North America,Investment,Yes,64,2432127,6,25852189,22560587,0,High-Value Investment Buyers
+C0060,Investor,Male,UK,West India,Personal Use,No,65,2725090,9,20720865,7690063,0,High-Value Investment Buyers
+C0061,Corporate,Female,India,Asia Pacific,Personal Use,Yes,54,2026252,3,16918810,22648664,0,High-Value Investment Buyers
+C0062,Individual,Male,India,North India,Commercial,No,41,2174278,5,26652023,14507882,1,Young Investment Buyers
+C0063,Corporate,Female,UAE,North America,Investment,No,43,2118852,2,45682015,2145589,2,Premium Property Buyers
+C0064,Corporate,Female,Singapore,North America,Rental,Yes,26,2245265,10,10668843,11113891,3,Mature Investment Buyers
+C0065,Corporate,Male,UK,South India,Rental,No,33,4434165,5,46662694,18371312,1,Young Investment Buyers
+C0066,Corporate,Male,Singapore,North America,Personal Use,Yes,43,1180701,8,25677491,24202829,1,Young Investment Buyers
+C0067,Corporate,Female,UAE,Europe,Commercial,No,29,1378343,2,17210878,19963098,1,Young Investment Buyers
+C0068,Corporate,Male,India,Asia Pacific,Investment,No,37,3132115,8,46148264,4431041,2,Premium Property Buyers
+C0069,Corporate,Female,Singapore,North India,Investment,No,22,790778,4,26505223,14284330,1,Young Investment Buyers
+C0070,Individual,Male,Singapore,North India,Personal Use,Yes,39,4144064,10,6977165,12406167,3,Mature Investment Buyers
+C0071,Investor,Male,India,South India,Personal Use,No,39,278157,10,25331168,24216407,1,Young Investment Buyers
+C0072,Corporate,Female,UK,West India,Investment,Yes,27,1853897,1,30156918,22484365,1,Young Investment Buyers
+C0073,Corporate,Male,India,North India,Investment,No,62,2450959,5,29518584,10803069,0,High-Value Investment Buyers
+C0074,Corporate,Female,Singapore,Europe,Personal Use,No,62,3928973,1,13059777,11436713,0,High-Value Investment Buyers
+C0075,Corporate,Male,UK,North India,Investment,No,40,711709,7,32205260,22697657,1,Young Investment Buyers
+C0076,Corporate,Female,UK,Europe,Rental,No,29,1329959,8,49674685,22329255,1,Young Investment Buyers
+C0077,Corporate,Female,India,Asia Pacific,Personal Use,Yes,37,3443867,3,25987779,13617447,1,Young Investment Buyers
+C0078,Investor,Male,Singapore,Asia Pacific,Investment,Yes,47,4056092,3,28352915,24817371,0,High-Value Investment Buyers
+C0079,Investor,Female,UAE,Middle East,Personal Use,No,22,2742800,7,22966513,2263655,3,Mature Investment Buyers
+C0080,Corporate,Male,Singapore,Middle East,Commercial,No,56,1758332,4,6013295,18753686,0,High-Value Investment Buyers
+C0081,Investor,Male,USA,Europe,Personal Use,Yes,39,4551441,3,12661434,7832129,3,Mature Investment Buyers
+C0082,Individual,Male,UAE,West India,Personal Use,Yes,37,1449651,8,20983239,13563930,3,Mature Investment Buyers
+C0083,Corporate,Female,UK,North India,Commercial,Yes,25,871279,3,14480331,16435998,3,Mature Investment Buyers
+C0084,Individual,Female,UAE,North America,Rental,Yes,59,4174999,7,34434408,24756396,0,High-Value Investment Buyers
+C0085,Individual,Male,UK,North India,Investment,No,38,763431,2,35585829,9824118,2,Premium Property Buyers
+C0086,Corporate,Male,UK,Middle East,Commercial,No,27,677701,1,13757529,5889003,3,Mature Investment Buyers
+C0087,Investor,Female,UAE,North America,Personal Use,Yes,37,1688404,6,31836529,23966202,1,Young Investment Buyers
+C0088,Individual,Male,UK,Europe,Investment,Yes,59,1905148,8,40252022,2042549,2,Premium Property Buyers
+C0089,Corporate,Male,UK,North America,Commercial,Yes,56,352515,1,39960517,20359423,1,Young Investment Buyers
+C0090,Individual,Female,USA,North India,Investment,Yes,60,3992825,10,21739967,23431448,0,High-Value Investment Buyers
+C0091,Individual,Male,Singapore,North India,Investment,Yes,65,2971083,9,29391783,20433180,0,High-Value Investment Buyers
+C0092,Individual,Female,Singapore,West India,Commercial,Yes,24,709723,3,16014909,2632720,3,Mature Investment Buyers
+C0093,Individual,Male,USA,South India,Investment,No,58,4838379,3,19942032,12665951,0,High-Value Investment Buyers
+C0094,Investor,Female,UAE,North America,Rental,No,45,383126,4,30462332,19746700,1,Young Investment Buyers
+C0095,Individual,Male,India,Middle East,Commercial,No,25,2744046,1,9538847,13361408,3,Mature Investment Buyers
+C0096,Individual,Male,India,Middle East,Rental,Yes,50,2076230,9,48481867,4953595,2,Premium Property Buyers
+C0097,Individual,Female,India,South India,Personal Use,Yes,32,4249161,3,31987760,21910386,1,Young Investment Buyers
+C0098,Investor,Male,USA,North India,Investment,Yes,24,3479595,10,7611212,13486474,3,Mature Investment Buyers
+C0099,Individual,Female,USA,West India,Personal Use,No,44,3863302,4,40875986,11041664,2,Premium Property Buyers
+C0100,Individual,Male,UK,West India,Personal Use,Yes,49,1026097,1,9761515,19257331,0,High-Value Investment Buyers
+C0101,Investor,Female,India,Middle East,Investment,Yes,29,2083438,4,16721304,1408573,3,Mature Investment Buyers
+C0102,Investor,Female,UAE,West India,Commercial,No,24,483609,1,34861982,15969349,1,Young Investment Buyers
+C0103,Investor,Female,UAE,Asia Pacific,Investment,Yes,44,3205003,5,30082148,846300,2,Premium Property Buyers
+C0104,Individual,Female,India,South India,Personal Use,No,34,1963082,5,14770488,4960624,3,Mature Investment Buyers
+C0105,Investor,Male,India,North India,Personal Use,No,25,2610963,7,10371045,1124747,3,Mature Investment Buyers
+C0106,Investor,Male,India,Asia Pacific,Commercial,Yes,38,1853313,8,16764650,16647776,3,Mature Investment Buyers
+C0107,Individual,Female,USA,South India,Investment,No,62,2486149,4,7498544,12172237,0,High-Value Investment Buyers
+C0108,Investor,Female,USA,Europe,Personal Use,Yes,39,3581591,7,30461497,15303289,1,Young Investment Buyers
+C0109,Individual,Female,USA,North America,Rental,No,32,2348885,4,39080389,2818890,2,Premium Property Buyers
+C0110,Corporate,Male,Singapore,Middle East,Personal Use,Yes,38,2903005,3,20703000,9793498,3,Mature Investment Buyers
+C0111,Investor,Male,UAE,West India,Personal Use,No,37,1386353,6,18289355,24429031,1,Young Investment Buyers
+C0112,Corporate,Male,UAE,Europe,Commercial,Yes,50,2364719,4,42244771,3075228,2,Premium Property Buyers
+C0113,Individual,Male,UK,West India,Rental,No,44,3145471,3,40882086,4550338,2,Premium Property Buyers
+C0114,Investor,Female,USA,Asia Pacific,Personal Use,No,31,3144221,9,17556581,9131334,3,Mature Investment Buyers
+C0115,Individual,Female,Singapore,North India,Personal Use,No,55,4226553,5,5301951,9609810,0,High-Value Investment Buyers
+C0116,Corporate,Female,Singapore,North India,Rental,Yes,43,3304181,7,34750577,4074787,2,Premium Property Buyers
+C0117,Individual,Male,UAE,North India,Investment,Yes,37,1761342,6,17571901,9594776,3,Mature Investment Buyers
+C0118,Investor,Male,USA,West India,Investment,No,21,919593,10,5312499,22943855,3,Mature Investment Buyers
+C0119,Investor,Male,UK,Europe,Personal Use,Yes,35,3432791,5,47438695,9354604,2,Premium Property Buyers
+C0120,Corporate,Female,USA,North India,Personal Use,No,52,2573592,7,6686279,18676178,0,High-Value Investment Buyers
+C0121,Individual,Female,India,Europe,Investment,Yes,29,3016933,6,17496572,23391140,1,Young Investment Buyers
+C0122,Investor,Male,USA,West India,Commercial,No,35,4986202,10,35416608,21256278,1,Young Investment Buyers
+C0123,Corporate,Female,India,Asia Pacific,Rental,Yes,48,4919164,2,8734049,15951876,0,High-Value Investment Buyers
+C0124,Investor,Male,India,Europe,Rental,No,44,1116783,3,29873195,18620979,1,Young Investment Buyers
+C0125,Investor,Male,UK,Asia Pacific,Commercial,No,55,4006997,2,44670222,6927799,2,Premium Property Buyers
+C0126,Individual,Female,UAE,West India,Commercial,No,42,3370421,3,27206264,18136515,1,Young Investment Buyers
+C0127,Investor,Male,USA,West India,Commercial,No,47,2026663,1,23047458,2936385,2,Premium Property Buyers
+C0128,Individual,Female,India,Middle East,Commercial,Yes,39,885786,8,13096173,22316697,1,Young Investment Buyers
+C0129,Investor,Male,USA,West India,Commercial,No,65,2527667,6,36722517,10427276,2,Premium Property Buyers
+C0130,Corporate,Female,UAE,West India,Commercial,Yes,32,4140013,2,33253223,1479581,2,Premium Property Buyers
+C0131,Investor,Female,UAE,South India,Rental,Yes,40,663889,8,7290860,8030223,3,Mature Investment Buyers
+C0132,Individual,Female,Singapore,North India,Commercial,No,21,377834,6,24588534,4312661,3,Mature Investment Buyers
+C0133,Individual,Male,UAE,Middle East,Investment,Yes,41,4830654,7,6173077,14808257,3,Mature Investment Buyers
+C0134,Corporate,Male,UK,North America,Commercial,Yes,65,4631834,1,43365534,3469554,2,Premium Property Buyers
+C0135,Investor,Female,India,Middle East,Commercial,Yes,21,3994325,7,16628044,18612400,3,Mature Investment Buyers
+C0136,Investor,Female,Singapore,Middle East,Rental,No,30,1838667,3,47973689,24866468,1,Young Investment Buyers
+C0137,Corporate,Male,UK,North America,Rental,Yes,52,3387281,8,43309327,1984632,2,Premium Property Buyers
+C0138,Investor,Male,USA,South India,Commercial,Yes,59,3344998,6,39106173,5660593,2,Premium Property Buyers
+C0139,Investor,Male,India,Asia Pacific,Rental,No,42,4098585,4,27867223,18870742,0,High-Value Investment Buyers
+C0140,Individual,Female,UAE,West India,Personal Use,No,38,2916112,8,14960710,22276180,1,Young Investment Buyers
+C0141,Investor,Male,India,North India,Rental,Yes,52,4923062,9,38711269,15098215,2,Premium Property Buyers
+C0142,Investor,Male,USA,Europe,Rental,No,47,1832141,10,5519676,23660460,0,High-Value Investment Buyers
+C0143,Corporate,Female,Singapore,North America,Rental,Yes,48,4383191,2,48738691,5162543,2,Premium Property Buyers
+C0144,Corporate,Male,Singapore,Asia Pacific,Rental,Yes,38,935544,6,23388137,7035893,3,Mature Investment Buyers
+C0145,Individual,Male,Singapore,North America,Investment,Yes,59,2339164,5,38219204,10698483,2,Premium Property Buyers
+C0146,Investor,Male,UAE,West India,Investment,No,49,386629,5,45471382,9755180,2,Premium Property Buyers
+C0147,Investor,Female,UK,South India,Investment,Yes,38,2437643,10,20915509,3597619,3,Mature Investment Buyers
+C0148,Investor,Female,UK,North America,Commercial,No,64,1734461,3,24471886,15862625,0,High-Value Investment Buyers
+C0149,Individual,Female,India,West India,Commercial,No,28,4106714,8,21650974,6597890,3,Mature Investment Buyers
+C0150,Individual,Female,UAE,West India,Personal Use,Yes,51,2114601,8,9161460,15230030,0,High-Value Investment Buyers
+C0151,Corporate,Female,Singapore,South India,Investment,No,54,1916418,5,47679704,12025284,2,Premium Property Buyers
+C0152,Individual,Female,Singapore,Middle East,Commercial,No,27,4047347,8,45956504,20569241,1,Young Investment Buyers
+C0153,Investor,Female,USA,Middle East,Rental,No,56,2987569,10,27653052,12444245,0,High-Value Investment Buyers
+C0154,Investor,Male,USA,North India,Rental,No,38,1846988,8,34034608,3980069,2,Premium Property Buyers
+C0155,Individual,Male,Singapore,North India,Investment,No,58,4444939,3,6506440,5075363,0,High-Value Investment Buyers
+C0156,Investor,Female,Singapore,Middle East,Personal Use,Yes,29,4996986,2,13181494,17697810,3,Mature Investment Buyers
+C0157,Investor,Male,UAE,Asia Pacific,Personal Use,No,29,1120346,9,42965477,3500758,2,Premium Property Buyers
+C0158,Individual,Male,UK,Europe,Rental,Yes,28,1986522,2,20841429,1429441,3,Mature Investment Buyers
+C0159,Individual,Female,USA,West India,Personal Use,Yes,55,3219331,9,23254698,20489274,0,High-Value Investment Buyers
+C0160,Investor,Male,UK,Europe,Investment,Yes,38,4103487,4,16229526,1202726,3,Mature Investment Buyers
+C0161,Investor,Male,UAE,West India,Rental,Yes,25,4547077,2,35367664,9747362,2,Premium Property Buyers
+C0162,Investor,Male,Singapore,Middle East,Commercial,Yes,34,934938,10,33107331,6631630,3,Mature Investment Buyers
+C0163,Corporate,Male,UK,North India,Commercial,Yes,48,907400,1,16701980,8797696,0,High-Value Investment Buyers
+C0164,Corporate,Male,Singapore,Asia Pacific,Personal Use,No,50,4684125,4,45175936,11555361,2,Premium Property Buyers
+C0165,Corporate,Female,Singapore,North India,Rental,No,24,3666881,9,19400309,11220489,3,Mature Investment Buyers
+C0166,Individual,Female,India,Europe,Rental,No,59,4031792,9,11528925,24325743,0,High-Value Investment Buyers
+C0167,Corporate,Female,UK,North India,Commercial,Yes,40,4467207,4,38190419,10226360,2,Premium Property Buyers
+C0168,Individual,Male,UK,Middle East,Rental,No,45,3681877,9,36987176,18810971,1,Young Investment Buyers
+C0169,Individual,Female,Singapore,Asia Pacific,Rental,No,48,4397255,6,32253227,1541431,2,Premium Property Buyers
+C0170,Corporate,Male,UAE,Europe,Rental,No,32,3091890,1,7667107,21271086,0,High-Value Investment Buyers
+C0171,Corporate,Male,India,Asia Pacific,Personal Use,Yes,22,4249570,10,25502779,6100350,3,Mature Investment Buyers
+C0172,Corporate,Male,Singapore,West India,Rental,No,63,405745,6,12231445,3994029,0,High-Value Investment Buyers
+C0173,Investor,Male,USA,North India,Investment,Yes,34,1879892,9,18510278,9330645,3,Mature Investment Buyers
+C0174,Corporate,Female,USA,Asia Pacific,Personal Use,No,42,1308402,2,25157851,13111277,1,Young Investment Buyers
+C0175,Investor,Female,India,South India,Rental,Yes,51,4643247,6,25927338,6018213,2,Premium Property Buyers
+C0176,Individual,Male,UAE,North India,Rental,Yes,43,4807527,2,46752776,22990061,1,Young Investment Buyers
+C0177,Investor,Female,Singapore,West India,Investment,Yes,40,4080527,4,39660568,4177264,2,Premium Property Buyers
+C0178,Corporate,Male,UK,Asia Pacific,Personal Use,No,58,1020243,8,39455927,12038705,2,Premium Property Buyers
+C0179,Individual,Female,India,Europe,Commercial,No,24,3521103,7,15700361,3054131,3,Mature Investment Buyers
+C0180,Individual,Female,UAE,West India,Commercial,Yes,35,3502410,9,33143626,2384624,2,Premium Property Buyers
+C0181,Individual,Male,UK,South India,Personal Use,No,44,2436038,7,15862366,8287727,3,Mature Investment Buyers
+C0182,Investor,Female,USA,Asia Pacific,Rental,Yes,45,1290283,1,43685563,11351623,2,Premium Property Buyers
+C0183,Corporate,Male,USA,North America,Rental,Yes,21,521001,2,9474445,22692051,1,Young Investment Buyers
+C0184,Individual,Female,UK,North America,Commercial,No,27,3996134,6,37627122,18883135,1,Young Investment Buyers
+C0185,Individual,Male,India,Middle East,Commercial,No,51,2935309,7,26946027,21147035,0,High-Value Investment Buyers
+C0186,Individual,Male,USA,North India,Commercial,No,32,3978016,3,8149407,10945675,3,Mature Investment Buyers
+C0187,Investor,Female,Singapore,Europe,Investment,Yes,62,112336,9,28556913,14510312,0,High-Value Investment Buyers
+C0188,Investor,Female,UK,Middle East,Commercial,Yes,25,1569204,7,46100560,9158202,1,Young Investment Buyers
+C0189,Corporate,Male,UK,Asia Pacific,Investment,No,64,3058963,6,28763874,19847635,0,High-Value Investment Buyers
+C0190,Investor,Female,USA,North America,Personal Use,Yes,62,3291319,6,14371520,550272,0,High-Value Investment Buyers
+C0191,Individual,Female,India,North America,Rental,No,58,2025656,1,12278492,9942494,0,High-Value Investment Buyers
+C0192,Corporate,Male,Singapore,North America,Commercial,Yes,32,3079718,5,7544306,14163305,3,Mature Investment Buyers
+C0193,Individual,Male,India,Asia Pacific,Rental,No,59,4722974,10,39084415,9374768,2,Premium Property Buyers
+C0194,Individual,Female,UAE,North America,Rental,No,38,3868553,3,38577814,14056195,2,Premium Property Buyers
+C0195,Investor,Male,UAE,West India,Commercial,Yes,22,389372,7,17192062,18017392,1,Young Investment Buyers
+C0196,Corporate,Male,USA,Asia Pacific,Commercial,No,30,114429,10,44171924,4776945,2,Premium Property Buyers
+C0197,Investor,Male,USA,Europe,Personal Use,No,35,1232870,3,45901228,14870931,1,Young Investment Buyers
+C0198,Investor,Female,USA,Middle East,Investment,Yes,50,4246118,5,43494992,23251766,1,Young Investment Buyers
+C0199,Corporate,Female,UAE,Europe,Investment,No,64,974506,7,6342643,2088321,0,High-Value Investment Buyers
+C0200,Individual,Male,India,South India,Rental,Yes,37,3576808,3,48246649,19416679,1,Young Investment Buyers
+C0201,Individual,Female,India,North America,Commercial,No,24,3457707,10,6930719,21344428,3,Mature Investment Buyers
+C0202,Corporate,Male,USA,South India,Personal Use,Yes,27,943810,2,36473572,7991990,1,Young Investment Buyers
+C0203,Individual,Female,Singapore,North India,Personal Use,No,61,4331614,6,47854385,8310360,2,Premium Property Buyers
+C0204,Corporate,Male,India,North India,Personal Use,No,51,4494203,8,46813582,1992669,2,Premium Property Buyers
+C0205,Corporate,Male,UAE,South India,Personal Use,No,59,4722776,4,8428811,17051253,0,High-Value Investment Buyers
+C0206,Investor,Female,UK,Asia Pacific,Personal Use,No,54,307500,9,31458172,22684430,1,Young Investment Buyers
+C0207,Corporate,Male,UK,Europe,Investment,Yes,26,4394166,8,14455984,15049939,3,Mature Investment Buyers
+C0208,Investor,Female,UK,South India,Investment,Yes,58,4662272,7,41068046,11378998,2,Premium Property Buyers
+C0209,Individual,Female,Singapore,North India,Investment,Yes,65,1191014,7,26623329,18064776,0,High-Value Investment Buyers
+C0210,Individual,Male,USA,South India,Commercial,Yes,54,4535786,3,8791343,14735298,0,High-Value Investment Buyers
+C0211,Individual,Male,UAE,Asia Pacific,Rental,Yes,64,2962750,6,23399728,2646081,2,Premium Property Buyers
+C0212,Individual,Female,Singapore,South India,Personal Use,Yes,35,2161439,5,5450067,15786048,3,Mature Investment Buyers
+C0213,Investor,Male,UAE,Europe,Commercial,Yes,34,2678305,1,27969288,7168845,2,Premium Property Buyers
+C0214,Individual,Male,UAE,Middle East,Personal Use,No,26,1960966,3,43564932,22267760,1,Young Investment Buyers
+C0215,Corporate,Male,USA,Asia Pacific,Investment,No,57,1355950,1,11061782,6362316,0,High-Value Investment Buyers
+C0216,Corporate,Male,UK,North India,Commercial,No,52,3927233,4,28238245,19820466,0,High-Value Investment Buyers
+C0217,Corporate,Male,USA,Europe,Investment,No,23,4632070,10,29174455,15988221,3,Mature Investment Buyers
+C0218,Investor,Female,Singapore,South India,Personal Use,Yes,23,1650531,3,37568013,6077558,2,Premium Property Buyers
+C0219,Individual,Female,Singapore,South India,Personal Use,Yes,42,3796458,4,27154384,3947822,2,Premium Property Buyers
+C0220,Individual,Male,Singapore,Middle East,Rental,Yes,42,4376252,9,29794680,583576,2,Premium Property Buyers
+C0221,Individual,Male,USA,North India,Personal Use,No,30,3533468,3,18725266,2617709,3,Mature Investment Buyers
+C0222,Investor,Male,UAE,North India,Investment,Yes,23,1715270,6,28198688,11531873,3,Mature Investment Buyers
+C0223,Corporate,Female,UAE,West India,Personal Use,No,32,1189100,6,40251584,21507600,1,Young Investment Buyers
+C0224,Corporate,Male,India,North India,Rental,Yes,49,2307312,7,19848268,4674865,3,Mature Investment Buyers
+C0225,Individual,Female,Singapore,Middle East,Rental,Yes,37,4775195,9,25858309,21206047,1,Young Investment Buyers
+C0226,Corporate,Female,UAE,North America,Investment,Yes,27,668933,7,48055802,14320357,1,Young Investment Buyers
+C0227,Corporate,Female,India,West India,Commercial,Yes,33,484903,1,36962629,8511194,2,Premium Property Buyers
+C0228,Investor,Male,UAE,West India,Personal Use,No,22,4169604,8,6839968,2477247,3,Mature Investment Buyers
+C0229,Investor,Female,Singapore,South India,Rental,No,24,881608,5,25990301,21965364,1,Young Investment Buyers
+C0230,Investor,Male,UK,South India,Personal Use,Yes,30,1266026,9,37743533,18892487,1,Young Investment Buyers
+C0231,Investor,Female,Singapore,North India,Personal Use,No,59,1868407,10,16565462,12154619,0,High-Value Investment Buyers
+C0232,Individual,Male,USA,West India,Commercial,Yes,44,1640710,5,34775922,21484858,1,Young Investment Buyers
+C0233,Investor,Female,UAE,South India,Rental,Yes,37,3446386,5,19960091,14805743,3,Mature Investment Buyers
+C0234,Corporate,Male,UAE,Middle East,Personal Use,Yes,26,3523082,2,7651222,678982,3,Mature Investment Buyers
+C0235,Individual,Female,USA,South India,Rental,Yes,39,4212742,3,14755715,12951797,0,High-Value Investment Buyers
+C0236,Corporate,Male,USA,Asia Pacific,Investment,No,25,1667043,10,42372499,11906718,1,Young Investment Buyers
+C0237,Corporate,Male,UK,Asia Pacific,Investment,Yes,52,4394329,9,37277458,8481806,2,Premium Property Buyers
+C0238,Corporate,Male,UAE,South India,Personal Use,Yes,30,1299728,7,13649769,3994412,3,Mature Investment Buyers
+C0239,Investor,Male,UAE,West India,Rental,No,29,1643992,1,34884472,21401245,1,Young Investment Buyers
+C0240,Investor,Female,UK,North America,Personal Use,Yes,47,2381636,3,37799457,4140503,2,Premium Property Buyers
+C0241,Individual,Female,India,North America,Rental,No,33,2059484,2,12735491,6481377,3,Mature Investment Buyers
+C0242,Individual,Male,UK,West India,Rental,Yes,39,4484347,1,27152869,13526765,2,Premium Property Buyers
+C0243,Investor,Female,Singapore,Europe,Commercial,Yes,41,3043430,9,42411901,23431944,1,Young Investment Buyers
+C0244,Corporate,Male,UAE,North America,Commercial,Yes,44,3311208,8,5335983,9715003,3,Mature Investment Buyers
+C0245,Individual,Male,USA,Asia Pacific,Commercial,Yes,58,867128,5,20809276,22464607,0,High-Value Investment Buyers
+C0246,Investor,Female,Singapore,Middle East,Personal Use,Yes,24,4609408,2,49020422,6143846,2,Premium Property Buyers
+C0247,Investor,Male,UAE,West India,Commercial,Yes,44,2431774,1,24244209,23925745,1,Young Investment Buyers
+C0248,Investor,Male,UK,North India,Commercial,No,55,534368,7,6115059,11785878,0,High-Value Investment Buyers
+C0249,Corporate,Female,Singapore,Asia Pacific,Investment,Yes,23,3666194,2,35429209,2172675,2,Premium Property Buyers
+C0250,Investor,Male,UAE,Middle East,Rental,No,24,2020773,1,47342809,9397515,2,Premium Property Buyers
+C0251,Investor,Male,India,Middle East,Rental,No,57,2934523,2,24432181,1432280,2,Premium Property Buyers
+C0252,Investor,Male,India,West India,Commercial,Yes,60,1267498,7,27116104,9266365,0,High-Value Investment Buyers
+C0253,Investor,Male,USA,Middle East,Rental,No,55,616576,7,31258748,3309939,2,Premium Property Buyers
+C0254,Individual,Female,UAE,West India,Investment,Yes,51,3891296,10,9920851,20527831,0,High-Value Investment Buyers
+C0255,Individual,Female,India,North America,Investment,No,64,1588204,6,26240937,12095422,0,High-Value Investment Buyers
+C0256,Investor,Female,UK,South India,Commercial,Yes,45,3033811,5,8472108,12289830,0,High-Value Investment Buyers
+C0257,Corporate,Male,UAE,Asia Pacific,Investment,No,60,3933538,3,9925233,3106041,0,High-Value Investment Buyers
+C0258,Individual,Male,UK,Europe,Rental,No,33,2270856,3,15175568,2875093,3,Mature Investment Buyers
+C0259,Investor,Female,UK,South India,Personal Use,Yes,24,631149,9,10768076,4665767,3,Mature Investment Buyers
+C0260,Individual,Male,India,Asia Pacific,Rental,No,34,338366,4,44049611,12301782,1,Young Investment Buyers
+C0261,Individual,Male,UAE,West India,Personal Use,Yes,33,4618362,9,41901385,3053540,2,Premium Property Buyers
+C0262,Corporate,Male,Singapore,Asia Pacific,Commercial,Yes,47,965718,4,6156928,13214892,0,High-Value Investment Buyers
+C0263,Investor,Male,India,North America,Personal Use,Yes,26,4507900,2,25018911,4119603,2,Premium Property Buyers
+C0264,Investor,Female,India,West India,Investment,Yes,37,168515,4,21288007,15456447,1,Young Investment Buyers
+C0265,Corporate,Female,UAE,South India,Rental,Yes,56,516740,6,38767060,11990235,2,Premium Property Buyers
+C0266,Corporate,Female,UAE,North India,Personal Use,No,60,2466361,6,36441685,23595985,0,High-Value Investment Buyers
+C0267,Investor,Male,UK,North India,Rental,No,55,1993884,5,17694801,16198458,0,High-Value Investment Buyers
+C0268,Investor,Female,UAE,Asia Pacific,Commercial,No,37,1041208,1,34341377,14173591,1,Young Investment Buyers
+C0269,Corporate,Female,UK,North India,Commercial,Yes,61,4483233,3,17894379,6219347,0,High-Value Investment Buyers
+C0270,Individual,Male,India,West India,Investment,No,22,3382422,5,37420104,3734499,2,Premium Property Buyers
+C0271,Individual,Male,USA,Middle East,Commercial,No,33,3067381,6,28420725,16354868,1,Young Investment Buyers
+C0272,Corporate,Female,Singapore,West India,Personal Use,No,22,2438692,1,33357657,24365638,1,Young Investment Buyers
+C0273,Individual,Female,India,Middle East,Commercial,No,48,2160035,9,12763412,4475220,3,Mature Investment Buyers
+C0274,Corporate,Female,UAE,South India,Investment,No,63,3214659,3,42881693,10852047,2,Premium Property Buyers
+C0275,Individual,Female,Singapore,Europe,Rental,Yes,46,1764005,10,36458329,24366071,1,Young Investment Buyers
+C0276,Individual,Male,USA,Middle East,Rental,Yes,42,1507576,3,9771873,13353716,0,High-Value Investment Buyers
+C0277,Investor,Female,USA,North India,Commercial,No,63,4121926,2,29422663,11469851,0,High-Value Investment Buyers
+C0278,Investor,Female,UK,West India,Personal Use,Yes,23,122995,8,33378249,22953135,1,Young Investment Buyers
+C0279,Individual,Male,Singapore,South India,Investment,Yes,55,1753005,3,6085110,19823426,0,High-Value Investment Buyers
+C0280,Individual,Female,UK,North India,Personal Use,No,32,1812355,6,14530218,13223600,3,Mature Investment Buyers
+C0281,Investor,Male,India,South India,Investment,No,44,541168,2,45952561,10116994,2,Premium Property Buyers
+C0282,Investor,Male,Singapore,Europe,Commercial,Yes,25,789197,7,15772941,24446891,1,Young Investment Buyers
+C0283,Investor,Male,India,North America,Investment,No,40,599471,4,22751903,23322482,1,Young Investment Buyers
+C0284,Corporate,Female,UK,West India,Investment,Yes,59,2513911,9,46255781,4973391,2,Premium Property Buyers
+C0285,Individual,Female,Singapore,Asia Pacific,Commercial,Yes,59,4784162,10,39379158,14172213,2,Premium Property Buyers
+C0286,Investor,Male,UK,West India,Personal Use,No,33,3748984,9,10840445,6574746,3,Mature Investment Buyers
+C0287,Individual,Female,Singapore,Europe,Commercial,Yes,61,110514,7,17547682,10809367,0,High-Value Investment Buyers
+C0288,Corporate,Female,UK,West India,Investment,Yes,65,2244608,8,7679590,3131550,0,High-Value Investment Buyers
+C0289,Corporate,Male,USA,Asia Pacific,Commercial,Yes,32,2204385,3,33903310,11484624,1,Young Investment Buyers
+C0290,Investor,Male,UK,Middle East,Investment,No,33,3311861,5,43294580,19330387,1,Young Investment Buyers
+C0291,Corporate,Female,USA,South India,Commercial,No,30,3030299,2,44764671,3987104,2,Premium Property Buyers
+C0292,Individual,Male,UK,Asia Pacific,Rental,No,53,728373,10,37030654,1209441,2,Premium Property Buyers
+C0293,Investor,Female,Singapore,North India,Rental,No,60,733389,7,14062875,19856885,0,High-Value Investment Buyers
+C0294,Individual,Female,Singapore,Europe,Commercial,Yes,36,1257260,8,16258447,4352312,3,Mature Investment Buyers
+C0295,Individual,Female,Singapore,Middle East,Personal Use,No,65,1475520,9,23814991,14521057,0,High-Value Investment Buyers
+C0296,Corporate,Female,UAE,North India,Investment,No,55,3455000,7,31393959,24411167,0,High-Value Investment Buyers
+C0297,Corporate,Male,India,North India,Rental,No,23,3681311,10,19594753,4487400,3,Mature Investment Buyers
+C0298,Corporate,Male,Singapore,Europe,Personal Use,No,25,3883831,10,26595276,23387880,1,Young Investment Buyers
+C0299,Corporate,Male,USA,Middle East,Investment,Yes,46,4421906,8,41471403,1493477,2,Premium Property Buyers
+C0300,Corporate,Male,Singapore,North America,Rental,Yes,31,3896286,9,27612986,11328893,3,Mature Investment Buyers
+C0301,Investor,Female,UAE,North India,Rental,Yes,27,2061328,6,34250312,20445166,1,Young Investment Buyers
+C0302,Individual,Female,USA,North India,Commercial,No,30,4189437,10,7613456,4774098,3,Mature Investment Buyers
+C0303,Individual,Male,UAE,Middle East,Investment,No,62,3669199,2,12214554,10525396,0,High-Value Investment Buyers
+C0304,Individual,Female,USA,West India,Personal Use,Yes,54,3791198,2,9266660,13707054,0,High-Value Investment Buyers
+C0305,Individual,Female,UK,North India,Personal Use,No,23,1450093,4,11551381,21287889,1,Young Investment Buyers
+C0306,Corporate,Female,India,South India,Personal Use,No,28,293691,9,21616818,9672934,3,Mature Investment Buyers
+C0307,Individual,Male,India,Middle East,Investment,Yes,51,3684476,7,39163351,24409753,1,Young Investment Buyers
+C0308,Investor,Male,UAE,North India,Personal Use,Yes,31,4575687,2,32508678,2962282,2,Premium Property Buyers
+C0309,Investor,Male,India,Europe,Personal Use,No,65,1290064,8,17615087,7559559,0,High-Value Investment Buyers
+C0310,Individual,Female,UAE,Asia Pacific,Personal Use,No,27,3065560,7,37785675,9758789,2,Premium Property Buyers
+C0311,Individual,Male,UAE,South India,Commercial,No,65,4842998,9,21585982,4927431,0,High-Value Investment Buyers
+C0312,Investor,Male,UAE,Asia Pacific,Commercial,Yes,22,3509747,8,10924216,4684001,3,Mature Investment Buyers
+C0313,Investor,Male,India,Asia Pacific,Investment,Yes,26,2103146,3,15155660,20564239,1,Young Investment Buyers
+C0314,Corporate,Male,UAE,North India,Investment,Yes,61,2692440,1,47283862,8019270,2,Premium Property Buyers
+C0315,Investor,Male,India,South India,Personal Use,Yes,52,579969,2,9704863,22344331,0,High-Value Investment Buyers
+C0316,Corporate,Male,UAE,South India,Commercial,No,40,2591721,2,16458929,2404400,3,Mature Investment Buyers
+C0317,Corporate,Female,Singapore,West India,Rental,Yes,54,782346,4,26217984,4622758,2,Premium Property Buyers
+C0318,Corporate,Female,UAE,Asia Pacific,Rental,Yes,36,1104411,6,20531310,2347669,3,Mature Investment Buyers
+C0319,Corporate,Male,USA,South India,Personal Use,No,45,4495223,4,10276473,21805382,0,High-Value Investment Buyers
+C0320,Corporate,Male,UAE,West India,Personal Use,No,32,3031659,9,5115064,11696355,3,Mature Investment Buyers
+C0321,Individual,Female,UK,Middle East,Commercial,No,27,299542,4,41144076,23616594,1,Young Investment Buyers
+C0322,Investor,Female,UAE,West India,Commercial,Yes,59,1820342,6,49093557,12527950,2,Premium Property Buyers
+C0323,Corporate,Male,USA,Europe,Commercial,No,37,3583802,6,28986619,24596575,1,Young Investment Buyers
+C0324,Investor,Male,USA,North America,Investment,No,65,1919833,10,35629215,4713720,2,Premium Property Buyers
+C0325,Investor,Male,India,North India,Investment,Yes,31,2050500,10,48483890,15193736,1,Young Investment Buyers
+C0326,Corporate,Male,Singapore,Middle East,Personal Use,Yes,26,4184032,1,16955732,976684,3,Mature Investment Buyers
+C0327,Individual,Female,UAE,North America,Investment,No,43,1323045,8,21694935,23696817,1,Young Investment Buyers
+C0328,Corporate,Male,India,North America,Commercial,Yes,47,4941905,3,19887035,19186319,0,High-Value Investment Buyers
+C0329,Individual,Male,Singapore,Middle East,Commercial,No,26,3004936,6,41612753,19374432,1,Young Investment Buyers
+C0330,Investor,Male,UAE,Europe,Investment,No,58,2036983,3,40755284,13151747,2,Premium Property Buyers
+C0331,Individual,Male,UK,West India,Rental,Yes,22,1504568,2,20039285,1750033,3,Mature Investment Buyers
+C0332,Individual,Female,UAE,North India,Personal Use,No,42,860956,5,37902537,1952847,2,Premium Property Buyers
+C0333,Individual,Female,USA,West India,Rental,Yes,40,3654382,1,49881364,6689811,2,Premium Property Buyers
+C0334,Investor,Female,USA,South India,Personal Use,Yes,45,3788498,9,38015483,6649620,2,Premium Property Buyers
+C0335,Investor,Male,UK,West India,Rental,Yes,35,4457847,7,24881016,21291892,1,Young Investment Buyers
+C0336,Individual,Male,India,Middle East,Investment,No,49,4665861,3,39893050,13934010,2,Premium Property Buyers
+C0337,Individual,Female,Singapore,North India,Personal Use,Yes,28,599964,4,12735167,11890486,3,Mature Investment Buyers
+C0338,Corporate,Male,UAE,West India,Personal Use,Yes,57,3097493,6,22364117,24621137,0,High-Value Investment Buyers
+C0339,Individual,Male,USA,North India,Personal Use,No,53,899458,3,18728195,24735442,0,High-Value Investment Buyers
+C0340,Corporate,Female,India,North India,Commercial,No,42,105435,7,30539745,18450506,1,Young Investment Buyers
+C0341,Individual,Female,UK,South India,Commercial,No,25,239565,6,35360133,1465730,2,Premium Property Buyers
+C0342,Corporate,Female,USA,South India,Rental,No,59,3042905,9,12912798,4201351,0,High-Value Investment Buyers
+C0343,Investor,Female,UK,Middle East,Investment,Yes,38,3528261,5,8729046,3696275,3,Mature Investment Buyers
+C0344,Individual,Male,UAE,Europe,Commercial,Yes,58,4854417,4,49748613,5439113,2,Premium Property Buyers
+C0345,Individual,Male,Singapore,North America,Personal Use,Yes,57,1427654,3,35803919,24248719,1,Young Investment Buyers
+C0346,Individual,Female,USA,North India,Commercial,No,50,2727014,10,48137537,15016676,2,Premium Property Buyers
+C0347,Individual,Male,USA,Europe,Investment,No,51,2239934,1,42169815,4967443,2,Premium Property Buyers
+C0348,Corporate,Female,UAE,North America,Commercial,Yes,30,547628,3,22547664,9338312,3,Mature Investment Buyers
+C0349,Individual,Female,India,North America,Personal Use,No,35,2667592,3,17040556,18328423,1,Young Investment Buyers
+C0350,Investor,Male,Singapore,Middle East,Rental,No,62,3119065,7,21747076,17414255,0,High-Value Investment Buyers
+C0351,Investor,Female,USA,North America,Personal Use,Yes,64,4159319,7,42373560,13957638,2,Premium Property Buyers
+C0352,Individual,Male,Singapore,North America,Investment,Yes,38,564535,1,29903926,8189454,2,Premium Property Buyers
+C0353,Investor,Male,USA,North India,Rental,No,43,2748191,3,10274033,22060279,0,High-Value Investment Buyers
+C0354,Individual,Male,Singapore,North India,Commercial,No,53,1448894,8,30300235,7090716,2,Premium Property Buyers
+C0355,Individual,Male,UK,Asia Pacific,Commercial,No,36,156572,9,42706342,19204340,1,Young Investment Buyers
+C0356,Investor,Female,USA,Europe,Commercial,Yes,58,3650985,7,24454894,22947539,0,High-Value Investment Buyers
+C0357,Individual,Male,Singapore,West India,Rental,Yes,55,2613595,7,38967042,13766341,2,Premium Property Buyers
+C0358,Investor,Female,India,South India,Personal Use,Yes,54,2233221,8,34656879,5830222,2,Premium Property Buyers
+C0359,Corporate,Female,UK,West India,Rental,Yes,48,837550,6,5052055,6805863,3,Mature Investment Buyers
+C0360,Individual,Female,UK,Europe,Rental,Yes,22,1898954,3,43901821,821345,2,Premium Property Buyers
+C0361,Corporate,Female,India,South India,Investment,No,50,2060350,1,11943122,1366525,0,High-Value Investment Buyers
+C0362,Investor,Male,Singapore,West India,Rental,No,33,882533,7,19039994,947564,3,Mature Investment Buyers
+C0363,Corporate,Male,UAE,Asia Pacific,Commercial,No,61,1029090,1,6136263,12576502,0,High-Value Investment Buyers
+C0364,Corporate,Female,India,South India,Personal Use,Yes,36,2902743,1,21055862,21554620,1,Young Investment Buyers
+C0365,Investor,Female,Singapore,North India,Personal Use,Yes,25,487902,9,16931243,23385157,1,Young Investment Buyers
+C0366,Corporate,Male,India,West India,Personal Use,Yes,48,2000302,10,7497838,10385820,3,Mature Investment Buyers
+C0367,Corporate,Female,India,South India,Commercial,No,59,784659,7,35511356,11480068,2,Premium Property Buyers
+C0368,Investor,Male,USA,Asia Pacific,Commercial,Yes,65,539717,4,31794461,10160243,0,High-Value Investment Buyers
+C0369,Corporate,Female,Singapore,North America,Commercial,Yes,40,812494,6,10129584,12601792,3,Mature Investment Buyers
+C0370,Investor,Male,UAE,South India,Commercial,No,44,3890918,1,27539942,10187580,2,Premium Property Buyers
+C0371,Corporate,Female,USA,South India,Commercial,Yes,47,3267118,7,24077036,23294865,0,High-Value Investment Buyers
+C0372,Investor,Female,India,Asia Pacific,Rental,No,50,2341105,6,38411231,11302766,2,Premium Property Buyers
+C0373,Investor,Male,India,North America,Commercial,Yes,65,1420307,4,14989056,7790985,0,High-Value Investment Buyers
+C0374,Corporate,Female,India,West India,Commercial,Yes,47,2422024,7,15206373,17305220,0,High-Value Investment Buyers
+C0375,Corporate,Female,Singapore,Middle East,Commercial,No,46,2664695,3,42097676,18084119,1,Young Investment Buyers
+C0376,Corporate,Male,Singapore,West India,Commercial,No,27,4775431,1,6838346,1024252,3,Mature Investment Buyers
+C0377,Individual,Female,USA,North America,Personal Use,No,62,1195589,4,45957065,11601868,2,Premium Property Buyers
+C0378,Individual,Male,UAE,Europe,Commercial,No,58,4935933,3,34496687,3836967,2,Premium Property Buyers
+C0379,Individual,Male,USA,Asia Pacific,Rental,No,25,1014217,1,36493562,12660853,1,Young Investment Buyers
+C0380,Investor,Female,UK,West India,Rental,No,43,3964708,2,12566169,18671905,0,High-Value Investment Buyers
+C0381,Corporate,Female,India,South India,Rental,Yes,48,4926176,5,33689143,16243208,2,Premium Property Buyers
+C0382,Investor,Female,India,Asia Pacific,Investment,Yes,54,178113,8,11911542,1528464,3,Mature Investment Buyers
+C0383,Individual,Female,India,North India,Personal Use,No,35,2021792,1,48985936,6276634,2,Premium Property Buyers
+C0384,Corporate,Female,USA,North America,Commercial,Yes,52,4462113,4,21623683,24839377,0,High-Value Investment Buyers
+C0385,Investor,Female,USA,West India,Investment,No,46,1639219,4,14053883,7680096,3,Mature Investment Buyers
+C0386,Corporate,Female,India,Asia Pacific,Commercial,Yes,51,4580572,5,27293398,17423755,0,High-Value Investment Buyers
+C0387,Investor,Male,USA,West India,Investment,No,39,4102262,7,36662509,20389427,1,Young Investment Buyers
+C0388,Corporate,Female,Singapore,Asia Pacific,Investment,Yes,29,4689716,8,17593459,21023187,3,Mature Investment Buyers
+C0389,Individual,Male,Singapore,South India,Rental,Yes,49,4093687,6,14788041,11133508,0,High-Value Investment Buyers
+C0390,Individual,Female,USA,North India,Rental,Yes,59,2589667,1,41964763,14226279,2,Premium Property Buyers
+C0391,Corporate,Female,India,North India,Investment,Yes,24,4390955,7,27966368,5381178,3,Mature Investment Buyers
+C0392,Investor,Male,USA,Europe,Rental,Yes,23,1395125,3,25288665,22018458,1,Young Investment Buyers
+C0393,Individual,Female,USA,Asia Pacific,Investment,No,49,185395,6,32182774,12112037,1,Young Investment Buyers
+C0394,Individual,Female,USA,West India,Personal Use,No,31,4660141,8,49672241,11214924,2,Premium Property Buyers
+C0395,Individual,Male,UK,North India,Rental,No,53,1233859,7,7180122,14660636,0,High-Value Investment Buyers
+C0396,Corporate,Female,Singapore,North America,Rental,Yes,58,1193060,10,39270609,20033457,1,Young Investment Buyers
+C0397,Corporate,Female,UAE,North India,Rental,No,31,2798954,6,10412199,22027159,3,Mature Investment Buyers
+C0398,Investor,Female,UAE,Middle East,Personal Use,Yes,47,3335863,9,16503817,14637408,0,High-Value Investment Buyers
+C0399,Investor,Male,UK,Middle East,Investment,Yes,53,2495067,9,14440105,6067768,3,Mature Investment Buyers
+C0400,Investor,Female,USA,North India,Commercial,Yes,41,3751422,1,41573764,5374010,2,Premium Property Buyers
+C0401,Corporate,Female,UK,Asia Pacific,Rental,No,59,4483030,1,5479177,24475302,0,High-Value Investment Buyers
+C0402,Corporate,Female,UK,Europe,Investment,Yes,51,314223,1,39075749,1670025,2,Premium Property Buyers
+C0403,Investor,Female,India,North India,Personal Use,No,58,4269495,8,25603778,13683900,0,High-Value Investment Buyers
+C0404,Investor,Male,Singapore,South India,Commercial,No,22,2712761,10,40063229,2531722,2,Premium Property Buyers
+C0405,Corporate,Male,UAE,West India,Rental,Yes,47,2095457,7,8926888,24874819,0,High-Value Investment Buyers
+C0406,Investor,Female,USA,Europe,Personal Use,Yes,56,1113071,3,7024676,5131813,0,High-Value Investment Buyers
+C0407,Individual,Female,UAE,South India,Personal Use,No,31,4992397,2,17655740,9605304,3,Mature Investment Buyers
+C0408,Corporate,Male,UAE,Europe,Commercial,No,38,3375072,4,30813761,20953640,1,Young Investment Buyers
+C0409,Investor,Male,Singapore,South India,Investment,No,21,3388560,3,18982694,16924403,3,Mature Investment Buyers
+C0410,Corporate,Female,UAE,West India,Rental,No,55,1786090,7,45069281,763369,2,Premium Property Buyers
+C0411,Individual,Male,UAE,West India,Rental,No,55,4917842,10,47029609,24031674,1,Young Investment Buyers
+C0412,Corporate,Female,UK,Middle East,Investment,No,51,387906,8,29976147,13864520,1,Young Investment Buyers
+C0413,Corporate,Male,Singapore,Asia Pacific,Investment,Yes,48,3427786,6,5984131,18867359,0,High-Value Investment Buyers
+C0414,Corporate,Male,India,South India,Investment,No,59,3416900,3,9878154,7950433,0,High-Value Investment Buyers
+C0415,Corporate,Male,USA,Middle East,Commercial,No,21,1284592,6,36511086,16455441,1,Young Investment Buyers
+C0416,Individual,Male,UAE,South India,Commercial,No,45,2245977,2,29717528,9660276,2,Premium Property Buyers
+C0417,Corporate,Female,USA,Middle East,Rental,No,63,2211029,7,18915952,13006080,0,High-Value Investment Buyers
+C0418,Corporate,Male,India,West India,Commercial,Yes,58,2326217,10,29458363,18829367,0,High-Value Investment Buyers
+C0419,Investor,Male,USA,Europe,Personal Use,Yes,40,732731,7,48164833,6621716,2,Premium Property Buyers
+C0420,Corporate,Female,India,North America,Rental,No,23,461756,4,16729096,17446475,1,Young Investment Buyers
+C0421,Investor,Male,UK,Middle East,Commercial,No,22,2314826,8,20225106,19621513,1,Young Investment Buyers
+C0422,Individual,Male,UAE,South India,Investment,No,38,3360802,4,28138509,2907777,2,Premium Property Buyers
+C0423,Individual,Female,India,South India,Personal Use,Yes,64,2121363,7,44459879,24252507,1,Young Investment Buyers
+C0424,Individual,Male,USA,North America,Investment,Yes,30,617257,4,5945424,9981736,3,Mature Investment Buyers
+C0425,Individual,Female,UAE,Asia Pacific,Rental,Yes,25,4690778,5,34578939,17476257,1,Young Investment Buyers
+C0426,Investor,Female,UK,West India,Investment,Yes,29,1400457,7,39193500,5950486,2,Premium Property Buyers
+C0427,Corporate,Female,UAE,South India,Commercial,Yes,22,4325933,10,48802064,8867415,2,Premium Property Buyers
+C0428,Individual,Female,India,North India,Commercial,Yes,54,1581257,3,20694202,17242813,0,High-Value Investment Buyers
+C0429,Corporate,Male,UK,Europe,Rental,No,58,2151933,10,6371242,6497845,3,Mature Investment Buyers
+C0430,Investor,Female,USA,Middle East,Investment,Yes,51,2999359,5,25440391,20160525,0,High-Value Investment Buyers
+C0431,Investor,Male,UK,Asia Pacific,Rental,Yes,30,2886719,3,27927424,9618454,3,Mature Investment Buyers
+C0432,Investor,Male,UK,North America,Investment,No,32,3661497,5,35351724,23855984,1,Young Investment Buyers
+C0433,Individual,Male,Singapore,Europe,Personal Use,Yes,56,362199,3,23797364,8396419,0,High-Value Investment Buyers
+C0434,Corporate,Male,UK,West India,Commercial,No,41,2970524,10,6160675,2313318,3,Mature Investment Buyers
+C0435,Corporate,Male,UK,Asia Pacific,Rental,Yes,26,1237273,7,27695558,22050048,1,Young Investment Buyers
+C0436,Corporate,Male,UAE,Middle East,Personal Use,No,23,3967293,1,9036589,11322700,3,Mature Investment Buyers
+C0437,Investor,Male,USA,Middle East,Personal Use,No,30,133734,9,7726427,21263968,3,Mature Investment Buyers
+C0438,Individual,Male,UAE,North America,Rental,No,25,313299,9,26550141,19110826,1,Young Investment Buyers
+C0439,Investor,Male,UAE,North India,Rental,No,46,2871034,5,40604708,12418661,2,Premium Property Buyers
+C0440,Investor,Male,India,North America,Personal Use,No,41,242728,9,37683027,11237811,1,Young Investment Buyers
+C0441,Corporate,Female,UAE,West India,Investment,Yes,65,771253,10,9587826,12999298,0,High-Value Investment Buyers
+C0442,Investor,Female,Singapore,Asia Pacific,Personal Use,Yes,46,1653185,6,7691207,5844491,3,Mature Investment Buyers
+C0443,Corporate,Female,Singapore,Asia Pacific,Rental,No,58,1106152,5,41804492,10519518,2,Premium Property Buyers
+C0444,Individual,Male,India,South India,Personal Use,No,64,793812,3,29784815,23949337,0,High-Value Investment Buyers
+C0445,Corporate,Female,USA,North India,Investment,No,46,1817202,8,8971586,4563627,3,Mature Investment Buyers
+C0446,Individual,Female,USA,North India,Commercial,Yes,28,3362331,4,36987904,3263357,2,Premium Property Buyers
+C0447,Corporate,Female,UAE,Asia Pacific,Commercial,No,25,4093767,10,22151560,6434299,3,Mature Investment Buyers
+C0448,Investor,Male,UAE,Asia Pacific,Personal Use,No,35,3925091,3,12021982,9955578,3,Mature Investment Buyers
+C0449,Investor,Male,UAE,Europe,Investment,No,36,752168,6,24629173,11866185,3,Mature Investment Buyers
+C0450,Individual,Male,USA,Europe,Commercial,No,21,3789638,8,45026777,24794226,1,Young Investment Buyers
+C0451,Individual,Male,UK,Europe,Personal Use,Yes,36,4586856,9,23325712,12093668,3,Mature Investment Buyers
+C0452,Individual,Female,Singapore,North India,Personal Use,No,57,1295055,6,5295863,1716953,3,Mature Investment Buyers
+C0453,Corporate,Female,UK,South India,Investment,No,23,1308957,5,32308680,12076964,1,Young Investment Buyers
+C0454,Corporate,Female,UK,Middle East,Rental,Yes,51,1241766,2,14205053,20182152,0,High-Value Investment Buyers
+C0455,Individual,Female,USA,Europe,Personal Use,No,33,876644,2,36799415,2028474,2,Premium Property Buyers
+C0456,Investor,Male,UK,South India,Rental,No,36,3463712,9,46751154,9758011,2,Premium Property Buyers
+C0457,Corporate,Male,India,North America,Rental,Yes,63,624658,2,39943500,16280633,0,High-Value Investment Buyers
+C0458,Corporate,Male,UAE,West India,Commercial,Yes,41,886918,2,5226884,7765584,3,Mature Investment Buyers
+C0459,Corporate,Female,India,Europe,Rental,Yes,22,103196,3,8417932,9338889,3,Mature Investment Buyers
+C0460,Individual,Male,Singapore,North America,Investment,No,47,1649648,3,12339096,9795252,0,High-Value Investment Buyers
+C0461,Individual,Male,UAE,Middle East,Commercial,No,58,3757919,4,20604223,5173024,0,High-Value Investment Buyers
+C0462,Individual,Female,UK,West India,Commercial,Yes,46,3778588,7,9506371,15686421,0,High-Value Investment Buyers
+C0463,Individual,Female,Singapore,West India,Commercial,Yes,58,2703680,9,5078563,3654267,3,Mature Investment Buyers
+C0464,Individual,Male,UAE,Middle East,Personal Use,Yes,45,1570017,2,38165246,14538009,1,Young Investment Buyers
+C0465,Investor,Male,UK,Europe,Personal Use,No,31,2767293,4,44059069,21263193,1,Young Investment Buyers
+C0466,Investor,Male,India,North India,Rental,No,28,2884787,9,17449925,12274646,3,Mature Investment Buyers
+C0467,Individual,Male,UAE,Middle East,Commercial,Yes,28,958811,2,6372407,16195184,3,Mature Investment Buyers
+C0468,Corporate,Male,UK,Middle East,Commercial,No,53,4164337,10,23910859,3956979,2,Premium Property Buyers
+C0469,Individual,Male,India,Middle East,Investment,Yes,27,2764649,1,33013885,14032568,1,Young Investment Buyers
+C0470,Investor,Female,Singapore,West India,Rental,No,58,3736119,10,34170099,10298983,2,Premium Property Buyers
+C0471,Investor,Female,Singapore,South India,Investment,No,41,3157143,8,33657474,21577014,1,Young Investment Buyers
+C0472,Corporate,Female,Singapore,North America,Rental,No,28,3656995,9,28990957,10776595,3,Mature Investment Buyers
+C0473,Investor,Male,Singapore,North India,Rental,No,41,1767108,7,39623456,8684477,2,Premium Property Buyers
+C0474,Individual,Female,USA,Europe,Personal Use,Yes,40,2953507,8,34864521,16454637,1,Young Investment Buyers
+C0475,Corporate,Male,UAE,Europe,Personal Use,No,28,1881336,4,39916702,13670997,1,Young Investment Buyers
+C0476,Individual,Male,UAE,North America,Investment,No,51,724588,4,12913614,20474742,0,High-Value Investment Buyers
+C0477,Individual,Female,USA,South India,Rental,Yes,49,2254327,2,28352262,6162110,2,Premium Property Buyers
+C0478,Corporate,Male,UK,Middle East,Commercial,No,29,4170081,8,9533027,1818154,3,Mature Investment Buyers
+C0479,Individual,Male,UK,North India,Personal Use,Yes,35,1250127,2,28809421,18093676,1,Young Investment Buyers
+C0480,Investor,Female,Singapore,Europe,Commercial,Yes,50,2589913,9,5901111,23330859,0,High-Value Investment Buyers
+C0481,Individual,Female,India,North America,Investment,No,46,4017000,4,37591471,11053333,2,Premium Property Buyers
+C0482,Corporate,Female,UK,Asia Pacific,Personal Use,No,30,2778306,1,29555117,3064660,2,Premium Property Buyers
+C0483,Corporate,Male,India,North America,Personal Use,Yes,49,2314904,4,9809073,7831426,0,High-Value Investment Buyers
+C0484,Corporate,Female,UAE,Europe,Rental,Yes,36,2450716,3,26181525,5920278,2,Premium Property Buyers
+C0485,Individual,Female,India,Middle East,Investment,Yes,56,4587561,6,6620706,22488752,0,High-Value Investment Buyers
+C0486,Corporate,Male,UAE,Asia Pacific,Rental,No,40,1919456,7,26018059,4736901,3,Mature Investment Buyers
+C0487,Corporate,Female,USA,South India,Personal Use,Yes,65,1364008,8,35966709,8558630,2,Premium Property Buyers
+C0488,Individual,Female,USA,North India,Investment,Yes,57,2868654,2,16457860,18147886,0,High-Value Investment Buyers
+C0489,Investor,Female,Singapore,South India,Personal Use,Yes,42,1482212,6,39325001,21907455,1,Young Investment Buyers
+C0490,Individual,Male,UK,South India,Investment,No,27,1359112,6,24290600,6490026,3,Mature Investment Buyers
+C0491,Corporate,Male,Singapore,North America,Personal Use,Yes,43,3976345,10,12813516,1852471,3,Mature Investment Buyers
+C0492,Corporate,Male,UAE,North India,Commercial,No,61,3280863,5,21182143,13169890,0,High-Value Investment Buyers
+C0493,Individual,Male,Singapore,North India,Commercial,No,60,2333414,10,32390898,3925565,2,Premium Property Buyers
+C0494,Investor,Female,India,Europe,Rental,Yes,49,1743063,10,38646879,3814497,2,Premium Property Buyers
+C0495,Corporate,Male,UAE,Europe,Commercial,No,36,104331,7,16879882,11342428,3,Mature Investment Buyers
+C0496,Corporate,Male,USA,North India,Personal Use,Yes,58,1665976,3,10547631,23928685,0,High-Value Investment Buyers
+C0497,Corporate,Female,UK,Asia Pacific,Personal Use,No,48,4076808,4,29275941,15865416,0,High-Value Investment Buyers
+C0498,Individual,Female,UAE,West India,Commercial,No,58,312854,10,29130071,8166001,2,Premium Property Buyers
+C0499,Corporate,Female,UAE,Europe,Rental,Yes,51,4844353,9,24520338,6135499,2,Premium Property Buyers
+C0500,Investor,Male,India,West India,Commercial,Yes,34,1653416,4,17044455,19157630,1,Young Investment Buyers
+C0501,Corporate,Male,UK,North America,Investment,Yes,53,3056156,3,42090229,9126686,2,Premium Property Buyers
+C0502,Corporate,Male,USA,Asia Pacific,Investment,No,29,2381696,2,15736236,20663084,1,Young Investment Buyers
+C0503,Investor,Female,UAE,North India,Investment,No,47,1233243,5,45952235,21090425,1,Young Investment Buyers
+C0504,Corporate,Female,UAE,Asia Pacific,Commercial,Yes,44,104677,4,11277609,14779147,0,High-Value Investment Buyers
+C0505,Individual,Male,India,Europe,Commercial,Yes,33,304580,8,13165571,3385201,3,Mature Investment Buyers
+C0506,Individual,Female,Singapore,South India,Commercial,No,46,230334,7,8727904,543016,3,Mature Investment Buyers
+C0507,Individual,Female,USA,North America,Investment,No,49,4657885,6,48526860,1834996,2,Premium Property Buyers
+C0508,Investor,Female,UK,North India,Rental,No,63,2152109,2,8232567,23275343,0,High-Value Investment Buyers
+C0509,Corporate,Male,UAE,Middle East,Personal Use,Yes,48,2608963,3,48965347,12576583,2,Premium Property Buyers
+C0510,Individual,Female,UAE,North America,Commercial,No,48,1981934,10,42916341,4198538,2,Premium Property Buyers
+C0511,Investor,Female,USA,West India,Rental,Yes,28,2796711,9,28585426,22969399,1,Young Investment Buyers
+C0512,Corporate,Male,Singapore,Asia Pacific,Personal Use,No,43,658745,9,11216618,6146049,3,Mature Investment Buyers
+C0513,Investor,Male,UAE,North India,Personal Use,No,49,666819,5,27349834,526567,2,Premium Property Buyers
+C0514,Individual,Female,USA,North America,Personal Use,Yes,25,3898043,3,43435211,20876683,1,Young Investment Buyers
+C0515,Individual,Female,India,Asia Pacific,Rental,Yes,62,294243,2,31149594,9999892,0,High-Value Investment Buyers
+C0516,Individual,Male,Singapore,North India,Rental,Yes,27,4551535,8,15487592,11111966,3,Mature Investment Buyers
+C0517,Investor,Male,UK,Europe,Investment,No,62,2970741,6,35890345,5241152,2,Premium Property Buyers
+C0518,Investor,Female,UAE,North America,Rental,No,56,717423,10,25561154,14714166,0,High-Value Investment Buyers
+C0519,Individual,Female,USA,Europe,Rental,No,61,690642,7,37051283,4295788,2,Premium Property Buyers
+C0520,Investor,Female,India,North America,Rental,Yes,47,737031,1,31024091,16134228,1,Young Investment Buyers
+C0521,Individual,Female,UK,Europe,Personal Use,No,22,2965893,1,25520598,14438736,1,Young Investment Buyers
+C0522,Individual,Male,USA,Asia Pacific,Commercial,Yes,45,2103369,10,9172975,16810733,3,Mature Investment Buyers
+C0523,Corporate,Female,USA,Middle East,Investment,Yes,29,1350844,2,42786306,11221869,1,Young Investment Buyers
+C0524,Investor,Female,UK,North America,Commercial,Yes,47,1016094,10,5481193,3093103,3,Mature Investment Buyers
+C0525,Individual,Male,India,North America,Commercial,No,21,4389361,3,7759127,22806736,3,Mature Investment Buyers
+C0526,Individual,Female,India,Europe,Rental,No,43,1186985,1,38495658,23258757,1,Young Investment Buyers
+C0527,Investor,Male,Singapore,North India,Investment,Yes,30,346889,5,18983877,19465625,1,Young Investment Buyers
+C0528,Corporate,Female,UAE,North America,Commercial,No,62,1565088,3,5627475,22523611,0,High-Value Investment Buyers
+C0529,Corporate,Female,UK,Europe,Commercial,Yes,45,4284251,1,34121418,1028742,2,Premium Property Buyers
+C0530,Individual,Male,UK,South India,Investment,Yes,23,3212252,8,11357658,21708665,3,Mature Investment Buyers
+C0531,Investor,Male,UK,Europe,Rental,No,26,4375542,6,15584340,522873,3,Mature Investment Buyers
+C0532,Corporate,Female,India,Asia Pacific,Commercial,Yes,26,1843227,9,40351787,16881304,1,Young Investment Buyers
+C0533,Investor,Female,UAE,Middle East,Personal Use,Yes,22,2471693,3,33391151,17114131,1,Young Investment Buyers
+C0534,Investor,Female,Singapore,South India,Commercial,No,38,4269647,9,39310156,23168948,1,Young Investment Buyers
+C0535,Individual,Male,USA,Asia Pacific,Personal Use,Yes,43,686470,9,8482837,4922801,3,Mature Investment Buyers
+C0536,Corporate,Female,USA,Asia Pacific,Rental,Yes,22,4074409,1,39990484,5335805,2,Premium Property Buyers
+C0537,Individual,Male,UK,Asia Pacific,Commercial,Yes,32,3405141,3,16189741,17982555,3,Mature Investment Buyers
+C0538,Corporate,Male,UAE,North India,Investment,Yes,42,277216,6,42091985,8389785,2,Premium Property Buyers
+C0539,Corporate,Female,India,Asia Pacific,Investment,Yes,57,4749292,8,49990622,10122156,2,Premium Property Buyers
+C0540,Corporate,Male,UAE,North India,Commercial,Yes,40,2276512,4,25708283,13666999,1,Young Investment Buyers
+C0541,Corporate,Female,UAE,Asia Pacific,Rental,Yes,59,3783460,5,10881468,24078909,0,High-Value Investment Buyers
+C0542,Corporate,Female,India,West India,Rental,No,44,2636015,9,17773924,10600846,3,Mature Investment Buyers
+C0543,Investor,Female,UK,South India,Investment,No,40,223662,6,18467149,22478990,1,Young Investment Buyers
+C0544,Individual,Female,UAE,West India,Commercial,Yes,21,1918352,7,24258714,13452344,3,Mature Investment Buyers
+C0545,Investor,Female,USA,Asia Pacific,Rental,Yes,21,3344571,7,41658811,743761,2,Premium Property Buyers
+C0546,Corporate,Male,India,South India,Investment,No,37,2994558,4,12233646,13325733,3,Mature Investment Buyers
+C0547,Individual,Male,Singapore,South India,Personal Use,No,21,736438,4,36268475,24391286,1,Young Investment Buyers
+C0548,Corporate,Female,UK,North America,Commercial,No,65,1580175,4,27288814,17712701,0,High-Value Investment Buyers
+C0549,Individual,Female,India,Middle East,Personal Use,No,50,1929484,5,49311069,7133381,2,Premium Property Buyers
+C0550,Investor,Male,Singapore,West India,Personal Use,No,61,1767690,5,36792217,22526553,0,High-Value Investment Buyers
+C0551,Individual,Male,Singapore,Middle East,Rental,Yes,23,4519425,8,38590483,14007165,1,Young Investment Buyers
+C0552,Individual,Male,UAE,South India,Rental,No,31,2069036,9,27097434,6670205,3,Mature Investment Buyers
+C0553,Individual,Male,UAE,North India,Rental,No,44,4011451,2,44657176,10576728,2,Premium Property Buyers
+C0554,Individual,Female,UAE,South India,Commercial,No,42,2846153,7,25213221,7676185,3,Mature Investment Buyers
+C0555,Individual,Female,India,Middle East,Personal Use,Yes,64,1204188,1,25629875,6501827,0,High-Value Investment Buyers
+C0556,Corporate,Male,India,West India,Commercial,Yes,65,3809726,1,7700502,21631873,0,High-Value Investment Buyers
+C0557,Individual,Female,UK,Asia Pacific,Rental,Yes,46,3883112,4,33493532,16465527,2,Premium Property Buyers
+C0558,Individual,Male,UAE,North America,Personal Use,Yes,33,2406569,10,34764622,3022189,2,Premium Property Buyers
+C0559,Investor,Female,Singapore,North America,Commercial,Yes,21,311463,7,16467529,24327801,1,Young Investment Buyers
+C0560,Individual,Male,USA,North America,Commercial,Yes,44,1767788,2,40577294,1442151,2,Premium Property Buyers
+C0561,Investor,Female,UK,Asia Pacific,Investment,No,30,368602,2,34153399,23548461,1,Young Investment Buyers
+C0562,Corporate,Male,India,North America,Commercial,Yes,55,2494820,1,26783250,14344545,0,High-Value Investment Buyers
+C0563,Individual,Male,UK,West India,Rental,Yes,44,762213,10,22454767,976015,3,Mature Investment Buyers
+C0564,Investor,Female,UK,Asia Pacific,Commercial,No,48,4836912,2,22989956,1376611,2,Premium Property Buyers
+C0565,Investor,Male,UK,North America,Personal Use,Yes,56,2291306,7,28158079,7929174,2,Premium Property Buyers
+C0566,Corporate,Female,UK,Asia Pacific,Commercial,No,36,2773683,9,29323577,15207667,1,Young Investment Buyers
+C0567,Individual,Female,USA,Middle East,Investment,No,60,3946703,6,39051597,23352986,0,High-Value Investment Buyers
+C0568,Individual,Male,UAE,West India,Personal Use,Yes,36,2607720,10,8732529,3927495,3,Mature Investment Buyers
+C0569,Investor,Female,Singapore,Europe,Personal Use,No,37,3842849,2,29016455,7360184,2,Premium Property Buyers
+C0570,Individual,Female,UK,North India,Investment,No,35,193476,10,31884164,21348152,1,Young Investment Buyers
+C0571,Investor,Female,UK,North America,Rental,No,36,214560,10,41114822,9244578,1,Young Investment Buyers
+C0572,Individual,Female,UK,North India,Personal Use,No,35,1449987,9,37016766,23858276,1,Young Investment Buyers
+C0573,Investor,Female,UAE,Asia Pacific,Rental,Yes,54,3807957,7,31439695,21685637,0,High-Value Investment Buyers
+C0574,Individual,Male,India,North India,Personal Use,No,31,969241,1,31201526,19063957,1,Young Investment Buyers
+C0575,Corporate,Female,India,West India,Personal Use,Yes,21,649656,9,8093348,8875065,3,Mature Investment Buyers
+C0576,Individual,Female,USA,West India,Rental,No,35,3538856,2,39532968,16695367,1,Young Investment Buyers
+C0577,Individual,Female,India,South India,Personal Use,No,46,3680885,4,38294467,2472645,2,Premium Property Buyers
+C0578,Corporate,Female,UK,North America,Rental,No,24,3503209,9,43799331,4651235,2,Premium Property Buyers
+C0579,Individual,Female,UK,South India,Investment,Yes,63,2197953,4,22382959,22539005,0,High-Value Investment Buyers
+C0580,Corporate,Male,UK,North India,Rental,Yes,25,2827978,3,47683639,24888509,1,Young Investment Buyers
+C0581,Individual,Female,USA,Europe,Investment,Yes,55,3095785,1,39752110,21721495,0,High-Value Investment Buyers
+C0582,Investor,Male,UK,South India,Personal Use,No,33,4080125,7,12147333,12888242,3,Mature Investment Buyers
+C0583,Investor,Male,India,South India,Rental,No,30,1926629,6,16345743,19992582,1,Young Investment Buyers
+C0584,Individual,Male,UAE,West India,Personal Use,No,31,2495265,10,28247397,17714754,1,Young Investment Buyers
+C0585,Individual,Male,UAE,Europe,Rental,No,38,191679,4,16861743,2724615,3,Mature Investment Buyers
+C0586,Individual,Female,Singapore,Asia Pacific,Investment,Yes,54,2878217,6,19261565,1650112,2,Premium Property Buyers
+C0587,Investor,Male,India,North India,Investment,No,59,1439083,6,47956408,9695168,2,Premium Property Buyers
+C0588,Individual,Male,UK,South India,Rental,Yes,61,3124628,4,16029513,10189165,0,High-Value Investment Buyers
+C0589,Investor,Female,UAE,Europe,Investment,No,62,3803367,6,18117852,23010629,0,High-Value Investment Buyers
+C0590,Corporate,Female,India,North America,Personal Use,Yes,43,4906540,10,11749645,12365481,3,Mature Investment Buyers
+C0591,Investor,Female,UAE,Europe,Personal Use,Yes,27,3990702,8,38470507,10915643,2,Premium Property Buyers
+C0592,Investor,Male,UK,North India,Commercial,No,59,4088395,3,11380798,10584963,0,High-Value Investment Buyers
+C0593,Corporate,Female,UAE,Europe,Investment,No,23,2474151,4,16815651,15060655,3,Mature Investment Buyers
+C0594,Investor,Female,Singapore,Europe,Personal Use,Yes,32,277476,10,6235340,20920219,3,Mature Investment Buyers
+C0595,Individual,Male,Singapore,Europe,Rental,No,27,1299217,1,13447149,24767867,1,Young Investment Buyers
+C0596,Individual,Female,UAE,North America,Investment,No,46,2775877,4,35392785,8445982,2,Premium Property Buyers
+C0597,Investor,Female,India,South India,Personal Use,Yes,53,2353962,10,16054356,1548581,3,Mature Investment Buyers
+C0598,Individual,Female,India,North India,Investment,Yes,57,3049908,10,36376847,14365640,2,Premium Property Buyers
+C0599,Investor,Female,India,North America,Rental,Yes,35,4113880,9,26133380,14400670,3,Mature Investment Buyers
+C0600,Individual,Male,UAE,Europe,Personal Use,Yes,22,2031441,8,8079676,17021486,3,Mature Investment Buyers
+C0601,Individual,Female,India,Europe,Commercial,No,61,365033,4,14486661,23376034,0,High-Value Investment Buyers
+C0602,Investor,Female,UK,South India,Commercial,Yes,27,4828161,7,24506917,24431690,1,Young Investment Buyers
+C0603,Individual,Male,Singapore,North India,Investment,Yes,52,3452477,10,47569794,6138702,2,Premium Property Buyers
+C0604,Investor,Female,UK,West India,Rental,Yes,24,4024845,3,30461039,1302914,2,Premium Property Buyers
+C0605,Individual,Male,India,North America,Personal Use,No,40,1235730,9,49504011,23078332,1,Young Investment Buyers
+C0606,Individual,Female,UK,South India,Rental,Yes,56,1256649,10,25378083,3997859,2,Premium Property Buyers
+C0607,Corporate,Male,India,North India,Personal Use,No,52,3802085,4,47722720,7014329,2,Premium Property Buyers
+C0608,Corporate,Male,UAE,North America,Investment,Yes,48,942329,2,42150868,15200939,1,Young Investment Buyers
+C0609,Investor,Male,UK,Europe,Personal Use,Yes,33,1293582,10,16959322,12309537,3,Mature Investment Buyers
+C0610,Corporate,Male,UAE,North India,Rental,No,21,988976,5,27186567,15644738,1,Young Investment Buyers
+C0611,Investor,Female,UAE,North India,Rental,Yes,55,1691570,2,11805751,21540127,0,High-Value Investment Buyers
+C0612,Corporate,Male,USA,Asia Pacific,Investment,Yes,50,274588,10,37750269,8714025,2,Premium Property Buyers
+C0613,Individual,Female,India,North India,Rental,No,56,3873618,6,15367257,18615439,0,High-Value Investment Buyers
+C0614,Investor,Male,Singapore,West India,Personal Use,Yes,45,3685854,10,44323969,20839925,1,Young Investment Buyers
+C0615,Investor,Male,India,North India,Investment,Yes,36,1630332,1,29345877,12135432,1,Young Investment Buyers
+C0616,Individual,Male,Singapore,West India,Personal Use,Yes,39,4419050,6,41438544,12022730,2,Premium Property Buyers
+C0617,Investor,Female,India,Europe,Rental,Yes,21,4839023,4,33420358,12605236,1,Young Investment Buyers
+C0618,Investor,Male,UAE,West India,Investment,No,25,1133290,3,37667242,16064814,1,Young Investment Buyers
+C0619,Corporate,Female,UK,North America,Personal Use,Yes,42,4725535,2,18210179,21555855,0,High-Value Investment Buyers
+C0620,Investor,Female,UK,Europe,Rental,No,44,3546549,7,21534820,23931805,0,High-Value Investment Buyers
+C0621,Individual,Female,USA,Europe,Rental,Yes,63,3258546,9,31249509,9505908,2,Premium Property Buyers
+C0622,Corporate,Female,Singapore,West India,Commercial,No,65,581438,3,46432671,21349876,1,Young Investment Buyers
+C0623,Corporate,Female,Singapore,South India,Rental,Yes,57,4868424,6,27329738,5381083,2,Premium Property Buyers
+C0624,Individual,Female,Singapore,Middle East,Personal Use,No,56,2805430,9,39920960,11714815,2,Premium Property Buyers
+C0625,Individual,Female,UAE,North India,Investment,Yes,56,1358542,2,41387736,16842774,1,Young Investment Buyers
+C0626,Corporate,Female,Singapore,Asia Pacific,Commercial,No,24,1220780,7,41027571,15806756,1,Young Investment Buyers
+C0627,Investor,Female,UK,Middle East,Rental,No,56,2242936,5,41158359,21772806,1,Young Investment Buyers
+C0628,Corporate,Male,UAE,North India,Rental,Yes,38,4172091,5,31550964,11771368,2,Premium Property Buyers
+C0629,Individual,Male,India,North India,Rental,No,36,1404140,7,42122282,20494484,1,Young Investment Buyers
+C0630,Corporate,Male,Singapore,Europe,Personal Use,Yes,61,4908098,9,39972599,8179124,2,Premium Property Buyers
+C0631,Individual,Male,Singapore,North India,Commercial,Yes,38,3893868,4,24339070,16240395,1,Young Investment Buyers
+C0632,Corporate,Male,India,Asia Pacific,Personal Use,Yes,42,1888702,9,48095047,19102995,1,Young Investment Buyers
+C0633,Investor,Female,Singapore,North India,Commercial,Yes,22,3796724,10,38969594,16608769,1,Young Investment Buyers
+C0634,Corporate,Female,India,West India,Investment,Yes,41,1691711,9,33516890,14740329,1,Young Investment Buyers
+C0635,Corporate,Female,UAE,Middle East,Personal Use,No,56,1728853,4,33071569,21606482,0,High-Value Investment Buyers
+C0636,Individual,Female,UK,West India,Personal Use,Yes,64,2158721,3,34387866,23400904,0,High-Value Investment Buyers
+C0637,Individual,Female,India,Asia Pacific,Investment,Yes,59,2060391,2,46553749,7048216,2,Premium Property Buyers
+C0638,Individual,Female,USA,North India,Commercial,Yes,59,4757448,9,34417281,6735111,2,Premium Property Buyers
+C0639,Corporate,Female,India,North America,Rental,Yes,49,4176773,2,25661252,11837879,0,High-Value Investment Buyers
+C0640,Investor,Male,Singapore,Asia Pacific,Investment,Yes,46,4612121,6,34421137,5565719,2,Premium Property Buyers
+C0641,Individual,Male,UAE,Europe,Rental,Yes,41,2220100,5,44671682,24318743,1,Young Investment Buyers
+C0642,Individual,Male,UAE,West India,Rental,No,37,159072,5,49926170,2643781,2,Premium Property Buyers
+C0643,Corporate,Male,India,West India,Investment,No,36,3575432,4,25619856,23161163,1,Young Investment Buyers
+C0644,Individual,Female,UK,South India,Commercial,Yes,51,3983337,6,42018575,11678487,2,Premium Property Buyers
+C0645,Investor,Female,USA,North India,Rental,No,29,2263843,5,26767749,4641042,3,Mature Investment Buyers
+C0646,Investor,Female,UAE,Europe,Investment,Yes,51,2862594,4,26043462,2019546,2,Premium Property Buyers
+C0647,Individual,Male,Singapore,North America,Personal Use,Yes,34,4134941,9,32381041,19332624,1,Young Investment Buyers
+C0648,Individual,Female,Singapore,West India,Personal Use,Yes,57,4301390,6,46170573,18656449,2,Premium Property Buyers
+C0649,Corporate,Female,UK,West India,Personal Use,Yes,22,489962,10,40122798,21029994,1,Young Investment Buyers
+C0650,Investor,Female,UAE,Europe,Investment,Yes,34,4886445,10,14070894,20583038,3,Mature Investment Buyers
+C0651,Investor,Male,India,Asia Pacific,Personal Use,No,53,3577899,10,5684143,23244785,0,High-Value Investment Buyers
+C0652,Individual,Female,Singapore,Asia Pacific,Rental,No,55,3523788,3,5607648,16156982,0,High-Value Investment Buyers
+C0653,Corporate,Male,UK,North India,Personal Use,No,59,901680,10,20896106,23439259,0,High-Value Investment Buyers
+C0654,Investor,Male,UAE,South India,Personal Use,No,40,4231279,6,46580260,20480885,1,Young Investment Buyers
+C0655,Investor,Male,UAE,West India,Rental,Yes,22,1959234,1,39952068,12989770,1,Young Investment Buyers
+C0656,Corporate,Male,UAE,South India,Personal Use,No,61,1042529,5,19377180,3951345,0,High-Value Investment Buyers
+C0657,Corporate,Female,UAE,Asia Pacific,Rental,Yes,39,4040008,10,37972639,21467463,1,Young Investment Buyers
+C0658,Investor,Male,UAE,Asia Pacific,Personal Use,No,57,1687138,6,14917883,24279630,0,High-Value Investment Buyers
+C0659,Investor,Male,Singapore,Middle East,Rental,No,38,2186172,8,36198324,24633288,1,Young Investment Buyers
+C0660,Corporate,Female,UK,North America,Personal Use,No,36,1465265,9,38389637,20492750,1,Young Investment Buyers
+C0661,Investor,Female,UAE,North India,Rental,No,24,4030131,3,38692269,2217222,2,Premium Property Buyers
+C0662,Individual,Male,USA,Middle East,Investment,Yes,32,3342222,2,5444842,17477427,3,Mature Investment Buyers
+C0663,Individual,Female,USA,North America,Rental,No,49,215981,4,14132675,22107884,0,High-Value Investment Buyers
+C0664,Corporate,Male,UK,Middle East,Personal Use,No,27,4310608,8,32404855,13138828,3,Mature Investment Buyers
+C0665,Corporate,Male,India,Middle East,Personal Use,Yes,34,1422014,8,49050396,9561568,2,Premium Property Buyers
+C0666,Corporate,Male,India,North India,Commercial,Yes,32,388569,3,44545274,2595383,2,Premium Property Buyers
+C0667,Individual,Male,India,North India,Rental,No,55,824071,4,19460040,23516483,0,High-Value Investment Buyers
+C0668,Investor,Female,USA,Europe,Investment,Yes,25,3356505,3,38970306,11170977,2,Premium Property Buyers
+C0669,Individual,Male,India,South India,Rental,Yes,37,502641,10,9975279,18144697,3,Mature Investment Buyers
+C0670,Investor,Female,Singapore,South India,Rental,Yes,62,4912056,2,49905946,4896054,2,Premium Property Buyers
+C0671,Individual,Female,UAE,Europe,Investment,No,52,3876764,4,15318435,18545646,0,High-Value Investment Buyers
+C0672,Investor,Female,USA,Europe,Rental,Yes,30,1615538,6,25839391,9635011,3,Mature Investment Buyers
+C0673,Individual,Female,UK,Asia Pacific,Investment,No,63,2999675,5,24448960,20318586,0,High-Value Investment Buyers
+C0674,Corporate,Male,UK,North America,Investment,No,37,3499902,3,29097013,22182565,1,Young Investment Buyers
+C0675,Individual,Female,UAE,Middle East,Rental,No,25,4949666,2,6612850,6078086,3,Mature Investment Buyers
+C0676,Investor,Male,USA,Europe,Rental,No,65,3499618,9,17919151,13015877,0,High-Value Investment Buyers
+C0677,Individual,Female,India,West India,Personal Use,Yes,62,3504629,1,22127641,14281922,0,High-Value Investment Buyers
+C0678,Individual,Female,India,South India,Personal Use,No,29,2292848,9,46484903,15750633,1,Young Investment Buyers
+C0679,Individual,Male,Singapore,Europe,Commercial,Yes,53,2873219,1,11102910,9719892,0,High-Value Investment Buyers
+C0680,Corporate,Male,Singapore,West India,Commercial,No,56,4964912,7,46709110,17006621,2,Premium Property Buyers
+C0681,Individual,Male,India,West India,Rental,Yes,56,1744173,6,5502939,19879237,0,High-Value Investment Buyers
+C0682,Corporate,Female,UK,West India,Investment,No,38,1069224,7,14610804,10640380,3,Mature Investment Buyers
+C0683,Corporate,Female,UK,Asia Pacific,Commercial,Yes,29,2867549,3,34501881,14660371,1,Young Investment Buyers
+C0684,Individual,Male,Singapore,Asia Pacific,Rental,No,49,4361725,3,36615931,19994586,0,High-Value Investment Buyers
+C0685,Individual,Male,UAE,West India,Commercial,No,34,336436,1,38383098,12180810,1,Young Investment Buyers
+C0686,Individual,Male,India,North America,Investment,Yes,45,2314178,4,32497323,14126214,1,Young Investment Buyers
+C0687,Investor,Male,Singapore,Asia Pacific,Rental,No,35,174804,2,38216149,9150353,1,Young Investment Buyers
+C0688,Individual,Female,Singapore,Middle East,Investment,No,26,3757390,10,7783993,6463523,3,Mature Investment Buyers
+C0689,Corporate,Male,India,West India,Rental,No,62,3076877,8,9812585,8194852,0,High-Value Investment Buyers
+C0690,Individual,Male,India,Middle East,Commercial,Yes,49,3889514,3,24145626,19023875,0,High-Value Investment Buyers
+C0691,Investor,Male,UK,Middle East,Personal Use,No,35,2072871,7,22603494,21125068,1,Young Investment Buyers
+C0692,Individual,Male,UAE,West India,Commercial,No,49,2040483,7,14127634,5440952,3,Mature Investment Buyers
+C0693,Investor,Female,UAE,South India,Commercial,Yes,24,3011898,9,31509140,14189610,3,Mature Investment Buyers
+C0694,Investor,Male,India,North America,Personal Use,Yes,38,587335,6,32891351,24575932,1,Young Investment Buyers
+C0695,Individual,Female,USA,West India,Personal Use,Yes,64,3609163,1,18575703,7546305,0,High-Value Investment Buyers
+C0696,Corporate,Male,Singapore,West India,Rental,Yes,59,3487951,8,20473403,16461301,0,High-Value Investment Buyers
+C0697,Investor,Male,Singapore,Asia Pacific,Rental,Yes,36,1361402,1,34615163,16881837,1,Young Investment Buyers
+C0698,Individual,Female,India,West India,Investment,No,31,3975251,3,27179282,3656390,2,Premium Property Buyers
+C0699,Individual,Male,USA,South India,Investment,No,34,3940507,5,29928689,14587705,1,Young Investment Buyers
+C0700,Corporate,Female,UK,Asia Pacific,Commercial,No,23,1466851,8,5346990,12616906,3,Mature Investment Buyers
+C0701,Investor,Female,India,North India,Personal Use,Yes,62,2679082,9,42391245,15578179,2,Premium Property Buyers
+C0702,Investor,Male,India,North India,Investment,No,58,2226028,7,48390879,3412166,2,Premium Property Buyers
+C0703,Individual,Female,Singapore,Middle East,Commercial,Yes,65,3085032,9,30139305,10969052,0,High-Value Investment Buyers
+C0704,Individual,Female,India,North America,Personal Use,Yes,62,3177195,3,18922399,6390681,0,High-Value Investment Buyers
+C0705,Corporate,Female,India,Middle East,Rental,No,38,2426344,5,29395739,8013317,2,Premium Property Buyers
+C0706,Corporate,Female,India,South India,Commercial,Yes,40,3557100,10,38054246,6605183,2,Premium Property Buyers
+C0707,Investor,Female,Singapore,Europe,Rental,Yes,45,2449465,8,23354343,18137729,0,High-Value Investment Buyers
+C0708,Investor,Female,UK,North America,Investment,No,58,1176837,1,20050793,24460887,0,High-Value Investment Buyers
+C0709,Individual,Female,UK,North India,Investment,Yes,33,3199449,8,18698926,4928935,3,Mature Investment Buyers
+C0710,Investor,Female,India,Middle East,Personal Use,Yes,24,3210999,7,12436391,22644794,3,Mature Investment Buyers
+C0711,Corporate,Male,Singapore,North India,Commercial,No,34,1637746,1,42169102,23737574,1,Young Investment Buyers
+C0712,Corporate,Male,UK,South India,Rental,Yes,53,1729040,10,11987659,16104634,0,High-Value Investment Buyers
+C0713,Individual,Female,UK,South India,Personal Use,Yes,48,2511596,10,38582122,18336504,1,Young Investment Buyers
+C0714,Corporate,Male,UK,Europe,Investment,No,57,2339564,6,18735021,22863767,0,High-Value Investment Buyers
+C0715,Corporate,Female,Singapore,Europe,Investment,No,28,3763289,1,8213274,6499566,3,Mature Investment Buyers
+C0716,Corporate,Female,Singapore,Asia Pacific,Commercial,No,64,4288699,2,10643473,7310136,0,High-Value Investment Buyers
+C0717,Corporate,Male,India,North America,Rental,No,54,3016596,5,47283756,4890741,2,Premium Property Buyers
+C0718,Individual,Female,UAE,South India,Commercial,Yes,64,4227436,2,9745059,10548657,0,High-Value Investment Buyers
+C0719,Individual,Female,UK,Middle East,Rental,Yes,25,2565933,10,32431026,12570834,3,Mature Investment Buyers
+C0720,Investor,Female,UAE,North India,Rental,No,25,4966940,1,21237722,24329926,1,Young Investment Buyers
+C0721,Corporate,Female,Singapore,West India,Commercial,Yes,51,3562511,6,13902280,19670648,0,High-Value Investment Buyers
+C0722,Investor,Male,Singapore,Europe,Personal Use,Yes,65,484083,8,9030272,8742909,0,High-Value Investment Buyers
+C0723,Individual,Female,Singapore,West India,Commercial,No,29,631598,8,27617798,3399529,3,Mature Investment Buyers
+C0724,Individual,Female,UAE,Middle East,Commercial,No,62,2378845,8,20559641,17188621,0,High-Value Investment Buyers
+C0725,Individual,Female,Singapore,Europe,Investment,Yes,52,766252,6,5704582,8181356,0,High-Value Investment Buyers
+C0726,Individual,Male,India,West India,Investment,No,53,3150798,3,11863859,18658389,0,High-Value Investment Buyers
+C0727,Individual,Female,Singapore,North America,Commercial,No,23,2636047,1,22653254,13954748,1,Young Investment Buyers
+C0728,Individual,Male,USA,Middle East,Commercial,No,50,3424353,2,31779335,15126405,0,High-Value Investment Buyers
+C0729,Individual,Male,UAE,North India,Investment,Yes,32,3354992,5,6103183,20305096,3,Mature Investment Buyers
+C0730,Corporate,Female,USA,North America,Rental,No,49,4897663,10,6499202,18328844,0,High-Value Investment Buyers
+C0731,Investor,Female,Singapore,Middle East,Commercial,Yes,23,796362,5,41722156,2886568,2,Premium Property Buyers
+C0732,Individual,Male,India,Asia Pacific,Personal Use,Yes,46,4561835,10,43721161,12337630,2,Premium Property Buyers
+C0733,Corporate,Female,UK,Europe,Personal Use,Yes,50,3635443,1,14745350,22223084,0,High-Value Investment Buyers
+C0734,Corporate,Male,Singapore,South India,Personal Use,No,29,2032303,1,39381012,648388,2,Premium Property Buyers
+C0735,Investor,Male,India,North India,Commercial,No,46,2851821,9,13218365,8286637,3,Mature Investment Buyers
+C0736,Individual,Female,UAE,North America,Rental,No,22,526941,2,9056926,21403780,1,Young Investment Buyers
+C0737,Investor,Female,USA,North America,Rental,No,23,3973770,7,9433494,23182696,3,Mature Investment Buyers
+C0738,Individual,Male,USA,West India,Investment,No,24,4950224,10,7106040,5577831,3,Mature Investment Buyers
+C0739,Corporate,Male,USA,Europe,Commercial,Yes,45,486354,4,40347034,22851014,1,Young Investment Buyers
+C0740,Corporate,Male,UAE,South India,Rental,Yes,33,3040149,7,42656823,20203975,1,Young Investment Buyers
+C0741,Corporate,Male,India,Middle East,Commercial,Yes,59,1035709,8,18018325,23962453,0,High-Value Investment Buyers
+C0742,Corporate,Female,UAE,South India,Investment,No,64,2585178,5,26973350,3601954,2,Premium Property Buyers
+C0743,Investor,Female,USA,Europe,Investment,Yes,55,3353965,1,39824440,7780054,2,Premium Property Buyers
+C0744,Individual,Female,Singapore,Europe,Investment,Yes,43,2185469,4,44739290,20439319,1,Young Investment Buyers
+C0745,Individual,Female,UK,Asia Pacific,Personal Use,No,29,3765632,10,40931061,9438606,2,Premium Property Buyers
+C0746,Investor,Female,UAE,Asia Pacific,Commercial,No,22,3622348,3,36958896,5473216,2,Premium Property Buyers
+C0747,Individual,Male,UAE,South India,Investment,Yes,61,1446365,10,22337859,7785599,0,High-Value Investment Buyers
+C0748,Corporate,Female,India,Middle East,Commercial,Yes,64,1236078,5,22007703,7461990,0,High-Value Investment Buyers
+C0749,Individual,Female,India,South India,Personal Use,No,51,586598,10,34827247,22889266,1,Young Investment Buyers
+C0750,Corporate,Female,UAE,Europe,Personal Use,No,64,4643758,10,26955282,3077697,2,Premium Property Buyers
+C0751,Investor,Female,USA,Europe,Investment,No,22,633037,6,41425474,8176465,1,Young Investment Buyers
+C0752,Individual,Female,UK,West India,Investment,No,52,3931871,2,22369168,6732238,2,Premium Property Buyers
+C0753,Investor,Male,India,Asia Pacific,Rental,Yes,38,684933,7,8967445,20324941,3,Mature Investment Buyers
+C0754,Individual,Male,USA,West India,Commercial,Yes,33,313933,3,14693533,5828567,3,Mature Investment Buyers
+C0755,Corporate,Male,Singapore,North India,Investment,No,25,1101720,1,5950128,13201880,3,Mature Investment Buyers
+C0756,Investor,Female,India,Europe,Rental,Yes,62,2247914,10,20251348,22987549,0,High-Value Investment Buyers
+C0757,Individual,Male,USA,West India,Commercial,Yes,64,2785662,3,36766371,13286482,0,High-Value Investment Buyers
+C0758,Corporate,Male,USA,South India,Investment,No,30,527709,9,17371798,4077141,3,Mature Investment Buyers
+C0759,Investor,Female,UK,Asia Pacific,Rental,Yes,63,355539,10,41103397,18093689,1,Young Investment Buyers
+C0760,Investor,Female,UK,Asia Pacific,Rental,Yes,45,1850866,6,42529035,24493424,1,Young Investment Buyers
+C0761,Individual,Female,Singapore,Middle East,Commercial,Yes,54,3404513,6,9846936,14002619,0,High-Value Investment Buyers
+C0762,Individual,Male,USA,South India,Rental,No,57,3877173,4,29769555,12846138,0,High-Value Investment Buyers
+C0763,Individual,Male,USA,Middle East,Commercial,No,50,1902272,8,21912240,23866063,0,High-Value Investment Buyers
+C0764,Corporate,Female,UK,West India,Commercial,Yes,27,4947384,5,9377577,17139475,3,Mature Investment Buyers
+C0765,Individual,Female,India,North America,Commercial,No,26,4276429,7,41296326,1930264,2,Premium Property Buyers
+C0766,Investor,Male,India,North India,Personal Use,No,23,3268097,9,30540143,6998450,3,Mature Investment Buyers
+C0767,Investor,Male,UAE,South India,Rental,No,33,2135030,5,40956188,24349440,1,Young Investment Buyers
+C0768,Individual,Female,UK,South India,Commercial,Yes,23,2050852,5,8299596,10524454,3,Mature Investment Buyers
+C0769,Individual,Female,UAE,South India,Investment,Yes,46,112120,4,24037186,17080252,1,Young Investment Buyers
+C0770,Investor,Male,UK,Middle East,Personal Use,No,44,724135,6,24354369,3229974,3,Mature Investment Buyers
+C0771,Corporate,Female,Singapore,West India,Personal Use,Yes,26,4917167,2,8981917,11675594,3,Mature Investment Buyers
+C0772,Individual,Male,USA,South India,Rental,Yes,63,4839052,3,30771653,18612580,0,High-Value Investment Buyers
+C0773,Individual,Male,Singapore,North America,Commercial,Yes,62,2153902,1,12885612,11548541,0,High-Value Investment Buyers
+C0774,Investor,Male,UK,South India,Rental,Yes,32,4845920,2,39987846,21817488,1,Young Investment Buyers
+C0775,Individual,Male,USA,Asia Pacific,Personal Use,Yes,56,2321186,2,15648708,21986442,0,High-Value Investment Buyers
+C0776,Corporate,Female,India,North India,Commercial,No,22,3421613,8,47659127,9810071,2,Premium Property Buyers
+C0777,Investor,Female,India,Asia Pacific,Investment,Yes,31,934030,8,14484230,9722329,3,Mature Investment Buyers
+C0778,Individual,Male,UAE,Asia Pacific,Commercial,Yes,59,4486152,2,33850657,9320939,2,Premium Property Buyers
+C0779,Investor,Male,UK,North India,Personal Use,Yes,54,2451441,6,25931454,11752265,0,High-Value Investment Buyers
+C0780,Individual,Male,UK,North America,Investment,No,46,3024553,5,6058335,10615084,0,High-Value Investment Buyers
+C0781,Individual,Male,India,West India,Commercial,No,38,2366598,3,22846842,7089081,3,Mature Investment Buyers
+C0782,Individual,Male,Singapore,Asia Pacific,Investment,No,41,1876238,5,6973915,2823729,3,Mature Investment Buyers
+C0783,Corporate,Female,USA,West India,Investment,Yes,56,162784,5,7328481,18927177,0,High-Value Investment Buyers
+C0784,Corporate,Female,Singapore,Asia Pacific,Personal Use,No,60,2559730,5,38087876,9697618,2,Premium Property Buyers
+C0785,Investor,Female,Singapore,Europe,Investment,No,64,4538072,3,49616401,5624595,2,Premium Property Buyers
+C0786,Individual,Female,India,North India,Rental,No,42,2095127,3,16973051,5209075,3,Mature Investment Buyers
+C0787,Individual,Male,India,Asia Pacific,Personal Use,No,50,1841070,4,10884902,21613188,0,High-Value Investment Buyers
+C0788,Corporate,Male,India,Europe,Rental,Yes,63,1608834,7,28206584,12488221,0,High-Value Investment Buyers
+C0789,Individual,Male,UAE,Middle East,Investment,No,50,1135108,2,45342474,11164782,2,Premium Property Buyers
+C0790,Corporate,Male,Singapore,Europe,Rental,No,28,4437739,10,7652880,7673625,3,Mature Investment Buyers
+C0791,Individual,Male,UK,South India,Commercial,Yes,54,578365,4,34284132,22800927,1,Young Investment Buyers
+C0792,Investor,Female,USA,Asia Pacific,Investment,Yes,29,3014212,4,43387539,21917569,1,Young Investment Buyers
+C0793,Individual,Male,UAE,Europe,Commercial,No,40,2174242,1,40980027,18448332,1,Young Investment Buyers
+C0794,Individual,Female,UK,West India,Rental,Yes,60,3315400,10,8890549,7482805,0,High-Value Investment Buyers
+C0795,Corporate,Female,Singapore,Middle East,Commercial,No,45,1719110,8,39564021,5510919,2,Premium Property Buyers
+C0796,Individual,Female,India,North America,Investment,Yes,39,594209,1,18670511,16885082,1,Young Investment Buyers
+C0797,Individual,Female,Singapore,Asia Pacific,Commercial,Yes,25,713398,8,18491021,3359453,3,Mature Investment Buyers
+C0798,Corporate,Male,USA,South India,Rental,No,31,1634230,7,35102447,18895971,1,Young Investment Buyers
+C0799,Investor,Female,UAE,North America,Rental,Yes,35,1863796,9,26047574,12997650,3,Mature Investment Buyers
+C0800,Investor,Female,UAE,Europe,Rental,No,28,4890280,8,19674301,15226965,3,Mature Investment Buyers
+C0801,Corporate,Female,USA,North America,Investment,Yes,39,951980,5,35736211,20899672,1,Young Investment Buyers
+C0802,Corporate,Male,UK,North America,Rental,No,43,1866299,8,37499243,2963208,2,Premium Property Buyers
+C0803,Corporate,Male,UK,Middle East,Investment,Yes,47,4567610,10,12831144,24164022,0,High-Value Investment Buyers
+C0804,Corporate,Male,UAE,North America,Commercial,Yes,60,4120018,3,5569503,4504168,0,High-Value Investment Buyers
+C0805,Corporate,Female,UAE,North America,Rental,Yes,52,1762656,10,46728753,9284599,2,Premium Property Buyers
+C0806,Investor,Female,India,Asia Pacific,Commercial,Yes,46,4994097,7,49199437,2481908,2,Premium Property Buyers
+C0807,Investor,Male,UK,Middle East,Personal Use,Yes,47,2710366,4,31617011,22275926,1,Young Investment Buyers
+C0808,Corporate,Female,USA,South India,Commercial,No,39,1334599,5,10346471,9493487,3,Mature Investment Buyers
+C0809,Individual,Male,UK,Europe,Personal Use,Yes,62,660846,9,12589077,20675934,0,High-Value Investment Buyers
+C0810,Corporate,Male,India,Middle East,Commercial,No,49,4423242,7,29687765,780759,2,Premium Property Buyers
+C0811,Individual,Female,UAE,Middle East,Investment,No,59,1295307,4,6992719,14038302,0,High-Value Investment Buyers
+C0812,Corporate,Female,UAE,North India,Commercial,No,61,2971712,6,11141018,19397206,0,High-Value Investment Buyers
+C0813,Corporate,Female,India,Middle East,Investment,Yes,53,4217143,10,5255931,14434360,0,High-Value Investment Buyers
+C0814,Investor,Female,USA,North India,Investment,No,39,3077407,7,48151612,6383417,2,Premium Property Buyers
+C0815,Individual,Male,UAE,Europe,Rental,Yes,57,955656,10,31864699,13685200,0,High-Value Investment Buyers
+C0816,Individual,Male,Singapore,North America,Investment,No,39,4760745,9,10709065,14106316,3,Mature Investment Buyers
+C0817,Investor,Male,UAE,Asia Pacific,Personal Use,No,53,3666568,4,27312344,21937512,0,High-Value Investment Buyers
+C0818,Investor,Male,Singapore,Asia Pacific,Rental,No,36,4779020,10,39378458,9033216,2,Premium Property Buyers
+C0819,Investor,Male,India,Europe,Rental,No,43,1892363,3,34625936,8824672,2,Premium Property Buyers
+C0820,Investor,Female,India,Europe,Commercial,No,27,738922,8,29914208,9025380,3,Mature Investment Buyers
+C0821,Individual,Male,UAE,West India,Investment,Yes,46,877867,1,28797209,13777111,1,Young Investment Buyers
+C0822,Individual,Male,UK,North America,Investment,No,52,4160861,9,22429908,13879592,0,High-Value Investment Buyers
+C0823,Corporate,Male,Singapore,Europe,Personal Use,No,32,3166461,1,10444544,22565387,0,High-Value Investment Buyers
+C0824,Corporate,Female,USA,Middle East,Commercial,Yes,28,2602884,2,44092355,8709093,2,Premium Property Buyers
+C0825,Investor,Female,UAE,Asia Pacific,Commercial,Yes,25,1802424,8,16343171,23784635,1,Young Investment Buyers
+C0826,Investor,Female,USA,South India,Rental,Yes,62,3401643,9,24415897,22645708,0,High-Value Investment Buyers
+C0827,Investor,Female,UAE,Asia Pacific,Rental,No,48,4275252,7,7929795,12575801,0,High-Value Investment Buyers
+C0828,Corporate,Male,UK,North India,Rental,No,25,1285560,3,42287920,16641339,1,Young Investment Buyers
+C0829,Corporate,Male,UK,Asia Pacific,Personal Use,No,46,1860968,7,11496776,13126727,3,Mature Investment Buyers
+C0830,Corporate,Female,UK,West India,Personal Use,No,25,1046301,6,21808562,23558318,1,Young Investment Buyers
+C0831,Corporate,Female,UK,North America,Rental,No,42,4956113,2,17139820,16289251,0,High-Value Investment Buyers
+C0832,Corporate,Male,India,Europe,Commercial,No,35,4427101,3,17949507,11597290,3,Mature Investment Buyers
+C0833,Corporate,Male,India,North America,Personal Use,Yes,33,967838,10,9926788,7209332,3,Mature Investment Buyers
+C0834,Corporate,Female,Singapore,Europe,Commercial,Yes,48,1157880,10,35844140,23610754,1,Young Investment Buyers
+C0835,Investor,Female,USA,Asia Pacific,Commercial,No,53,3187714,5,8294742,19521698,0,High-Value Investment Buyers
+C0836,Investor,Female,UAE,South India,Investment,No,63,4419859,10,23661391,1127901,2,Premium Property Buyers
+C0837,Investor,Female,UAE,South India,Rental,No,43,3578192,4,32243492,3481899,2,Premium Property Buyers
+C0838,Investor,Male,India,West India,Investment,No,53,1671853,2,15290759,13959034,0,High-Value Investment Buyers
+C0839,Corporate,Male,UAE,North India,Rental,No,63,568224,4,43645181,6886676,2,Premium Property Buyers
+C0840,Individual,Male,India,Asia Pacific,Rental,Yes,38,3230576,8,21584182,2088253,3,Mature Investment Buyers
+C0841,Corporate,Female,Singapore,Europe,Commercial,Yes,50,3340216,5,19154683,17960261,0,High-Value Investment Buyers
+C0842,Individual,Female,USA,Asia Pacific,Rental,No,46,1407066,5,5531562,16124763,0,High-Value Investment Buyers
+C0843,Investor,Male,Singapore,West India,Commercial,Yes,36,885890,10,16511503,4716101,3,Mature Investment Buyers
+C0844,Corporate,Male,UK,Middle East,Commercial,No,33,4187954,3,25987268,8738439,2,Premium Property Buyers
+C0845,Investor,Male,UK,Middle East,Rental,No,59,1022229,8,48405007,24159292,1,Young Investment Buyers
+C0846,Corporate,Male,UK,West India,Commercial,No,53,2938109,6,29615174,13843855,0,High-Value Investment Buyers
+C0847,Investor,Female,Singapore,Europe,Commercial,Yes,46,2703441,2,27556210,11271600,2,Premium Property Buyers
+C0848,Individual,Male,UAE,North America,Commercial,Yes,21,4906799,2,10443961,14133512,3,Mature Investment Buyers
+C0849,Individual,Male,USA,West India,Personal Use,No,58,298017,9,17309678,19316498,0,High-Value Investment Buyers
+C0850,Individual,Male,UK,Europe,Commercial,Yes,22,3843757,7,47835095,1161944,2,Premium Property Buyers
+C0851,Corporate,Male,UK,South India,Personal Use,Yes,26,2968921,10,21949723,11143876,3,Mature Investment Buyers
+C0852,Individual,Male,UK,West India,Personal Use,No,58,4965368,9,25653321,13350341,0,High-Value Investment Buyers
+C0853,Corporate,Male,USA,Europe,Commercial,Yes,62,3103225,6,38431880,21927851,0,High-Value Investment Buyers
+C0854,Individual,Male,UK,West India,Commercial,Yes,44,2429518,5,36977420,13876714,2,Premium Property Buyers
+C0855,Individual,Female,USA,West India,Personal Use,No,38,4544623,1,17805935,17295119,0,High-Value Investment Buyers
+C0856,Corporate,Female,UK,North America,Personal Use,No,47,4328316,6,42045410,15867923,2,Premium Property Buyers
+C0857,Corporate,Female,Singapore,North America,Commercial,Yes,61,766775,6,23142574,7600883,0,High-Value Investment Buyers
+C0858,Individual,Female,Singapore,Europe,Commercial,No,28,3678478,3,29186320,2161241,2,Premium Property Buyers
+C0859,Corporate,Male,USA,Europe,Rental,Yes,48,4802034,3,16601645,14332962,0,High-Value Investment Buyers
+C0860,Individual,Female,Singapore,North India,Personal Use,No,30,554529,3,30667599,11392542,1,Young Investment Buyers
+C0861,Corporate,Female,USA,West India,Personal Use,No,37,2444218,3,19018356,10817704,3,Mature Investment Buyers
+C0862,Investor,Male,Singapore,Middle East,Rental,No,49,2961129,7,21962855,1901170,2,Premium Property Buyers
+C0863,Investor,Male,Singapore,West India,Personal Use,No,26,1211766,10,10802494,13526796,3,Mature Investment Buyers
+C0864,Investor,Female,USA,West India,Investment,Yes,34,3521147,2,36352046,24989470,1,Young Investment Buyers
+C0865,Investor,Female,UAE,Europe,Personal Use,No,42,639203,10,25306500,19962509,1,Young Investment Buyers
+C0866,Investor,Male,Singapore,West India,Rental,No,26,1411629,10,36373317,15365779,1,Young Investment Buyers
+C0867,Individual,Female,UK,Asia Pacific,Investment,No,46,1000542,2,21600283,23722077,1,Young Investment Buyers
+C0868,Investor,Male,UAE,West India,Commercial,Yes,59,3311636,3,32681786,10346358,2,Premium Property Buyers
+C0869,Investor,Male,USA,Asia Pacific,Rental,Yes,32,4054780,10,45150781,23096826,1,Young Investment Buyers
+C0870,Investor,Male,UAE,North America,Rental,No,55,4328416,7,29759728,5108474,2,Premium Property Buyers
+C0871,Investor,Male,India,Middle East,Commercial,No,34,3045759,3,33563301,12265091,2,Premium Property Buyers
+C0872,Corporate,Female,India,Europe,Rental,No,42,394768,7,29982913,9422571,1,Young Investment Buyers
+C0873,Individual,Male,Singapore,West India,Personal Use,No,43,3452921,9,17432678,14221078,3,Mature Investment Buyers
+C0874,Investor,Male,Singapore,Asia Pacific,Commercial,No,27,161264,10,31787495,14502202,1,Young Investment Buyers
+C0875,Investor,Female,UK,Asia Pacific,Rental,No,60,2559507,4,9463588,19391552,0,High-Value Investment Buyers
+C0876,Investor,Male,UAE,North America,Commercial,Yes,45,4938094,7,10568250,22305915,0,High-Value Investment Buyers
+C0877,Individual,Female,India,Asia Pacific,Commercial,No,33,4737452,9,12053905,11441279,3,Mature Investment Buyers
+C0878,Corporate,Female,Singapore,South India,Commercial,No,41,3552097,8,47818287,3388851,2,Premium Property Buyers
+C0879,Individual,Female,UAE,North India,Investment,No,61,3451191,8,35691339,4878023,2,Premium Property Buyers
+C0880,Corporate,Male,Singapore,Middle East,Rental,No,30,1318284,9,17748964,22516738,1,Young Investment Buyers
+C0881,Investor,Female,Singapore,North America,Investment,No,29,3180202,5,37513934,12883582,1,Young Investment Buyers
+C0882,Investor,Female,India,North America,Rental,No,35,3821993,5,49656134,22293977,1,Young Investment Buyers
+C0883,Individual,Male,India,West India,Personal Use,Yes,22,2048058,3,47072141,15301310,1,Young Investment Buyers
+C0884,Individual,Female,Singapore,South India,Personal Use,Yes,45,4788827,5,40044928,19714117,1,Young Investment Buyers
+C0885,Corporate,Female,USA,West India,Personal Use,Yes,33,722207,8,34901413,24225013,1,Young Investment Buyers
+C0886,Corporate,Female,Singapore,West India,Rental,Yes,54,742064,5,45318914,22145352,1,Young Investment Buyers
+C0887,Individual,Female,Singapore,Europe,Commercial,Yes,54,965630,4,22433444,9039016,0,High-Value Investment Buyers
+C0888,Corporate,Female,UK,Europe,Commercial,Yes,55,4425001,8,28281322,6423827,2,Premium Property Buyers
+C0889,Individual,Male,UK,Europe,Investment,No,58,3046878,7,9553804,21433310,0,High-Value Investment Buyers
+C0890,Corporate,Female,UK,South India,Investment,No,23,2085500,6,10618735,19327342,3,Mature Investment Buyers
+C0891,Individual,Female,USA,West India,Personal Use,No,62,3072881,5,38706065,5731308,2,Premium Property Buyers
+C0892,Individual,Male,USA,North India,Investment,No,26,1409989,5,48026128,23490613,1,Young Investment Buyers
+C0893,Individual,Male,Singapore,Middle East,Rental,No,39,268678,10,11516682,19232815,3,Mature Investment Buyers
+C0894,Corporate,Male,UK,Europe,Rental,No,23,4726160,2,41908627,7138111,2,Premium Property Buyers
+C0895,Corporate,Female,USA,Europe,Investment,Yes,38,4150501,4,7941449,22005473,0,High-Value Investment Buyers
+C0896,Corporate,Male,India,North America,Investment,No,59,1075924,8,12232540,7669165,0,High-Value Investment Buyers
+C0897,Individual,Female,Singapore,West India,Investment,Yes,29,903789,8,11755631,19792769,3,Mature Investment Buyers
+C0898,Corporate,Female,UAE,West India,Investment,Yes,32,270923,1,49930017,12110247,1,Young Investment Buyers
+C0899,Corporate,Male,Singapore,South India,Personal Use,No,25,400406,2,25891069,11349069,1,Young Investment Buyers
+C0900,Individual,Male,UAE,South India,Personal Use,No,23,617961,5,22943155,17453898,1,Young Investment Buyers
+C0901,Investor,Female,UK,Europe,Investment,No,31,1135598,9,47255849,19294203,1,Young Investment Buyers
+C0902,Individual,Male,UAE,West India,Rental,No,50,2611902,10,31940172,15106381,1,Young Investment Buyers
+C0903,Corporate,Female,UK,North India,Personal Use,No,24,3740377,7,9375979,20186635,3,Mature Investment Buyers
+C0904,Individual,Male,India,Middle East,Rental,No,25,263944,10,11909286,10687823,3,Mature Investment Buyers
+C0905,Investor,Male,UAE,West India,Commercial,No,21,2696105,5,22664959,15153523,3,Mature Investment Buyers
+C0906,Individual,Male,Singapore,North America,Rental,Yes,47,3122345,1,19432245,17855294,0,High-Value Investment Buyers
+C0907,Corporate,Female,UK,West India,Investment,No,48,2790543,6,22172185,15912384,0,High-Value Investment Buyers
+C0908,Investor,Male,Singapore,Asia Pacific,Commercial,No,49,3069852,8,37469851,17024715,1,Young Investment Buyers
+C0909,Corporate,Female,USA,South India,Personal Use,Yes,38,4856004,7,5855243,16640807,3,Mature Investment Buyers
+C0910,Investor,Female,UK,North America,Personal Use,No,32,1458454,2,48721259,15665384,1,Young Investment Buyers
+C0911,Investor,Female,UAE,Middle East,Commercial,No,33,3971018,5,8059867,9297057,3,Mature Investment Buyers
+C0912,Individual,Female,UK,Europe,Rental,Yes,61,1170804,4,7213889,3066436,0,High-Value Investment Buyers
+C0913,Individual,Male,Singapore,North America,Personal Use,No,22,2537220,9,24330404,6618313,3,Mature Investment Buyers
+C0914,Corporate,Female,India,West India,Investment,No,57,2203627,10,5642006,21099595,0,High-Value Investment Buyers
+C0915,Individual,Female,UK,Europe,Commercial,No,65,3198350,1,21138732,20727536,0,High-Value Investment Buyers
+C0916,Individual,Male,UAE,West India,Investment,No,36,4535686,6,42065372,3545236,2,Premium Property Buyers
+C0917,Investor,Female,USA,Europe,Commercial,No,44,3677643,3,9119586,22087493,0,High-Value Investment Buyers
+C0918,Individual,Male,India,Middle East,Personal Use,No,55,4724341,9,34827146,12664078,2,Premium Property Buyers
+C0919,Investor,Female,USA,South India,Rental,Yes,42,2489911,5,27793504,23310077,1,Young Investment Buyers
+C0920,Investor,Male,UK,Middle East,Commercial,No,56,1826681,6,19410098,14805541,0,High-Value Investment Buyers
+C0921,Investor,Female,Singapore,Asia Pacific,Commercial,No,31,217408,9,49520010,3052387,2,Premium Property Buyers
+C0922,Corporate,Male,Singapore,North India,Investment,Yes,49,736431,9,44698760,4136402,2,Premium Property Buyers
+C0923,Corporate,Female,UAE,South India,Personal Use,Yes,55,3535504,8,43020862,12928706,2,Premium Property Buyers
+C0924,Corporate,Female,Singapore,Middle East,Investment,No,35,899288,9,42692168,17770712,1,Young Investment Buyers
+C0925,Investor,Male,India,Asia Pacific,Personal Use,Yes,51,1336541,4,15905574,14966248,0,High-Value Investment Buyers
+C0926,Corporate,Male,Singapore,North India,Investment,No,62,2136721,6,42894447,2019493,2,Premium Property Buyers
+C0927,Corporate,Male,UAE,Asia Pacific,Commercial,No,61,1740913,5,33905692,10157356,2,Premium Property Buyers
+C0928,Individual,Male,UK,West India,Investment,Yes,63,417798,5,36188131,21441242,0,High-Value Investment Buyers
+C0929,Corporate,Female,UK,West India,Rental,No,36,1351222,4,14446879,4214779,3,Mature Investment Buyers
+C0930,Corporate,Female,Singapore,Europe,Personal Use,No,30,590783,2,43845894,18477629,1,Young Investment Buyers
+C0931,Investor,Male,USA,South India,Personal Use,Yes,52,1207177,6,23119030,1331219,2,Premium Property Buyers
+C0932,Investor,Female,UK,West India,Commercial,Yes,22,886796,9,27736091,2455683,3,Mature Investment Buyers
+C0933,Investor,Male,Singapore,North America,Personal Use,Yes,44,4759014,1,6332907,22527521,0,High-Value Investment Buyers
+C0934,Investor,Male,UAE,Asia Pacific,Rental,Yes,43,3594585,7,18487357,9163609,3,Mature Investment Buyers
+C0935,Investor,Female,Singapore,South India,Investment,No,22,2092834,6,30818833,22703939,1,Young Investment Buyers
+C0936,Investor,Female,UK,North America,Commercial,Yes,58,4223412,3,19441860,6098023,0,High-Value Investment Buyers
+C0937,Corporate,Female,UAE,West India,Rental,Yes,51,4019736,1,26490902,23085841,0,High-Value Investment Buyers
+C0938,Investor,Female,Singapore,Europe,Personal Use,Yes,60,4816302,4,48560310,15675560,2,Premium Property Buyers
+C0939,Investor,Female,India,Middle East,Personal Use,Yes,46,2573055,9,14397333,22206621,0,High-Value Investment Buyers
+C0940,Individual,Female,UAE,Europe,Rental,Yes,49,1427877,2,11438505,22001260,0,High-Value Investment Buyers
+C0941,Corporate,Female,India,North America,Investment,No,23,4276852,3,10680935,21582673,3,Mature Investment Buyers
+C0942,Corporate,Male,USA,North India,Investment,Yes,34,2787328,2,23276882,23345390,1,Young Investment Buyers
+C0943,Corporate,Male,UAE,West India,Commercial,No,45,1999955,2,32059246,6983999,2,Premium Property Buyers
+C0944,Investor,Male,India,North America,Personal Use,Yes,21,2005888,10,8509312,20361089,3,Mature Investment Buyers
+C0945,Investor,Male,UK,North India,Rental,Yes,23,4298811,8,42643202,14610762,1,Young Investment Buyers
+C0946,Investor,Male,UK,North India,Investment,Yes,46,772225,3,47179034,1829020,2,Premium Property Buyers
+C0947,Individual,Female,USA,Asia Pacific,Commercial,Yes,38,3610463,7,24983425,8767102,3,Mature Investment Buyers
+C0948,Investor,Male,UAE,South India,Personal Use,Yes,29,1540334,8,13189792,17677933,3,Mature Investment Buyers
+C0949,Individual,Male,UAE,Asia Pacific,Personal Use,Yes,58,2224365,3,45814035,3647573,2,Premium Property Buyers
+C0950,Corporate,Male,UAE,West India,Commercial,Yes,43,3170610,2,25419677,7617069,2,Premium Property Buyers
+C0951,Investor,Male,USA,North India,Commercial,Yes,41,3303178,8,35682729,7241935,2,Premium Property Buyers
+C0952,Individual,Male,UAE,North America,Investment,No,21,497693,3,46193604,9650262,1,Young Investment Buyers
+C0953,Individual,Male,UK,Middle East,Rental,Yes,41,3832238,7,26659057,23283388,1,Young Investment Buyers
+C0954,Investor,Male,India,North India,Personal Use,No,47,2072613,1,42346644,1496270,2,Premium Property Buyers
+C0955,Corporate,Female,UK,North America,Rental,Yes,62,2715880,6,33873017,8558430,2,Premium Property Buyers
+C0956,Corporate,Female,UK,Middle East,Personal Use,No,26,3924484,9,24989070,3893416,3,Mature Investment Buyers
+C0957,Corporate,Male,India,Asia Pacific,Personal Use,Yes,64,3258483,3,46969159,19933060,0,High-Value Investment Buyers
+C0958,Individual,Female,UK,Asia Pacific,Rental,Yes,56,3435705,7,22419248,2095428,2,Premium Property Buyers
+C0959,Individual,Female,USA,South India,Commercial,Yes,48,1444091,6,18748382,18252155,0,High-Value Investment Buyers
+C0960,Individual,Female,India,North America,Investment,No,65,504470,8,16930260,15460435,0,High-Value Investment Buyers
+C0961,Individual,Female,UK,North India,Personal Use,No,37,4429394,3,26403485,5838139,2,Premium Property Buyers
+C0962,Corporate,Male,Singapore,Europe,Commercial,No,60,891624,3,22870781,21912211,0,High-Value Investment Buyers
+C0963,Investor,Female,UK,Asia Pacific,Personal Use,No,23,1701207,4,34120090,7857247,1,Young Investment Buyers
+C0964,Individual,Female,USA,Asia Pacific,Investment,Yes,32,1707245,3,12346585,15310641,3,Mature Investment Buyers
+C0965,Individual,Female,UAE,South India,Personal Use,Yes,59,3095035,9,6590745,4428408,0,High-Value Investment Buyers
+C0966,Corporate,Male,UK,Middle East,Investment,Yes,32,2409305,4,27387904,23639746,1,Young Investment Buyers
+C0967,Investor,Male,UAE,South India,Investment,No,22,2956188,6,42127690,7721414,2,Premium Property Buyers
+C0968,Investor,Male,Singapore,North India,Personal Use,Yes,42,2643628,8,19260288,2252153,3,Mature Investment Buyers
+C0969,Corporate,Male,UK,North America,Personal Use,No,43,584427,8,24152862,23675431,1,Young Investment Buyers
+C0970,Corporate,Male,India,West India,Investment,No,50,2517714,5,27119695,12162807,0,High-Value Investment Buyers
+C0971,Investor,Male,UAE,West India,Commercial,No,25,4818740,5,42305845,19133935,1,Young Investment Buyers
+C0972,Individual,Male,Singapore,North America,Rental,No,29,4058905,6,44138965,1956851,2,Premium Property Buyers
+C0973,Investor,Female,India,Middle East,Investment,No,41,4891506,10,47485097,6315566,2,Premium Property Buyers
+C0974,Corporate,Female,India,Asia Pacific,Personal Use,Yes,31,4183372,7,11243246,22685465,3,Mature Investment Buyers
+C0975,Individual,Female,India,Middle East,Personal Use,No,25,1209229,10,41277456,10042143,1,Young Investment Buyers
+C0976,Individual,Male,India,Asia Pacific,Commercial,No,55,3993623,7,14745693,15149173,0,High-Value Investment Buyers
+C0977,Corporate,Male,UK,Asia Pacific,Rental,Yes,47,4486897,4,22089545,8079349,2,Premium Property Buyers
+C0978,Corporate,Male,UK,West India,Investment,No,22,2189884,6,6706722,4327573,3,Mature Investment Buyers
+C0979,Corporate,Male,UK,Middle East,Investment,No,44,4304099,7,15193081,22842207,0,High-Value Investment Buyers
+C0980,Investor,Male,Singapore,South India,Rental,Yes,51,3480796,5,42094996,19210027,1,Young Investment Buyers
+C0981,Investor,Female,Singapore,Asia Pacific,Investment,Yes,53,1611546,5,8165317,5872625,0,High-Value Investment Buyers
+C0982,Individual,Female,Singapore,Europe,Rental,Yes,59,4921699,2,44062338,4748887,2,Premium Property Buyers
+C0983,Corporate,Male,USA,Europe,Personal Use,No,50,1596030,7,21708392,2196941,2,Premium Property Buyers
+C0984,Individual,Male,Singapore,South India,Rental,Yes,57,2949090,6,43402260,944846,2,Premium Property Buyers
+C0985,Individual,Male,UK,Europe,Investment,Yes,48,3412750,1,32010577,1659935,2,Premium Property Buyers
+C0986,Individual,Male,UK,North India,Rental,Yes,51,111009,4,36473141,5366148,2,Premium Property Buyers
+C0987,Individual,Female,USA,Asia Pacific,Commercial,No,31,4472472,3,30781819,5322724,2,Premium Property Buyers
+C0988,Corporate,Male,USA,South India,Personal Use,Yes,43,1823480,3,42709399,12549665,2,Premium Property Buyers
+C0989,Individual,Male,Singapore,Middle East,Personal Use,No,22,3799397,7,6364981,20482207,3,Mature Investment Buyers
+C0990,Corporate,Male,UAE,Asia Pacific,Rental,No,60,2091367,10,13119363,16902675,0,High-Value Investment Buyers
+C0991,Corporate,Male,USA,South India,Investment,Yes,61,430328,4,11627735,10871765,0,High-Value Investment Buyers
+C0992,Investor,Female,India,West India,Commercial,No,47,4509013,8,46893415,22378426,1,Young Investment Buyers
+C0993,Corporate,Male,UK,Middle East,Personal Use,No,55,2808668,9,20258732,3984840,3,Mature Investment Buyers
+C0994,Investor,Male,India,West India,Personal Use,Yes,22,1100294,3,48864137,16995658,1,Young Investment Buyers
+C0995,Corporate,Female,UK,Asia Pacific,Investment,No,59,3298454,5,41280897,7188064,2,Premium Property Buyers
+C0996,Corporate,Female,UK,Middle East,Investment,Yes,57,1046984,4,17239527,24024145,0,High-Value Investment Buyers
+C0997,Corporate,Female,USA,Europe,Commercial,No,41,2385362,10,30386245,16296444,1,Young Investment Buyers
+C0998,Investor,Male,USA,South India,Rental,No,25,2942894,6,24830127,3421984,3,Mature Investment Buyers
+C0999,Investor,Male,India,Asia Pacific,Investment,Yes,65,3550375,10,39847505,22414489,0,High-Value Investment Buyers
+C1000,Individual,Female,UK,North India,Rental,Yes,41,277265,4,31899280,15621435,1,Young Investment Buyers
+C1001,Investor,Female,India,Middle East,Commercial,No,49,3326585,8,25345701,7927925,2,Premium Property Buyers
+C1002,Investor,Female,UAE,Middle East,Rental,No,40,3628329,3,7141549,17021041,0,High-Value Investment Buyers
+C1003,Investor,Female,India,North America,Personal Use,Yes,58,3136773,5,41515101,508981,2,Premium Property Buyers
+C1004,Investor,Female,Singapore,Asia Pacific,Rental,No,40,4484432,1,13182420,4059976,3,Mature Investment Buyers
+C1005,Individual,Female,India,Asia Pacific,Commercial,No,45,1790792,6,40058569,7107691,2,Premium Property Buyers
+C1006,Investor,Male,Singapore,West India,Commercial,No,22,1731570,5,37344439,17384370,1,Young Investment Buyers
+C1007,Corporate,Male,Singapore,North America,Commercial,No,52,2075556,8,38831564,24903800,1,Young Investment Buyers
+C1008,Corporate,Male,Singapore,Europe,Rental,Yes,46,3590678,9,18790283,2228177,3,Mature Investment Buyers
+C1009,Investor,Female,UAE,West India,Personal Use,Yes,26,4873598,8,20238152,8316186,3,Mature Investment Buyers
+C1010,Investor,Female,India,North America,Investment,Yes,61,1760102,8,23782403,13043142,0,High-Value Investment Buyers
+C1011,Corporate,Female,India,West India,Personal Use,Yes,23,2445170,3,34518630,3404814,2,Premium Property Buyers
+C1012,Corporate,Female,UAE,Europe,Rental,Yes,53,1611710,4,33737303,18213400,1,Young Investment Buyers
+C1013,Individual,Female,UK,North America,Rental,Yes,21,1867091,4,44054965,19983387,1,Young Investment Buyers
+C1014,Corporate,Female,USA,North America,Investment,No,25,932230,5,30112550,21418963,1,Young Investment Buyers
+C1015,Corporate,Male,India,North India,Rental,Yes,33,916609,9,40696004,5357531,2,Premium Property Buyers
+C1016,Investor,Male,USA,West India,Commercial,No,39,3735192,9,10708593,10935379,3,Mature Investment Buyers
+C1017,Corporate,Female,UAE,West India,Commercial,No,32,4684470,10,34976451,8573934,2,Premium Property Buyers
+C1018,Individual,Male,UK,Middle East,Commercial,No,45,4162316,1,44231026,5699895,2,Premium Property Buyers
+C1019,Corporate,Female,UK,Europe,Commercial,Yes,55,3288741,8,45663603,3943737,2,Premium Property Buyers
+C1020,Investor,Male,UK,South India,Commercial,No,32,4264133,1,14634425,17999516,0,High-Value Investment Buyers
+C1021,Investor,Female,UAE,North India,Rental,Yes,50,1755464,2,17252153,10457081,0,High-Value Investment Buyers
+C1022,Corporate,Female,Singapore,North America,Investment,No,25,1506819,7,18634586,19412237,1,Young Investment Buyers
+C1023,Investor,Male,Singapore,North America,Investment,No,54,978835,8,32991969,8038009,2,Premium Property Buyers
+C1024,Individual,Male,USA,North America,Commercial,Yes,42,723578,1,8748688,17135257,0,High-Value Investment Buyers
+C1025,Individual,Female,Singapore,North India,Rental,No,59,3377560,3,18931876,5192489,0,High-Value Investment Buyers
+C1026,Corporate,Female,Singapore,North America,Personal Use,No,33,3269870,7,6712189,16312624,3,Mature Investment Buyers
+C1027,Corporate,Male,UK,North America,Personal Use,No,23,2569485,9,44638077,20524013,1,Young Investment Buyers
+C1028,Corporate,Male,UK,Europe,Rental,No,40,3131946,8,10368229,5570447,3,Mature Investment Buyers
+C1029,Investor,Female,USA,Asia Pacific,Commercial,Yes,51,2479093,8,43323993,13411308,2,Premium Property Buyers
+C1030,Individual,Male,India,Asia Pacific,Investment,No,25,4602748,9,20295096,3987258,3,Mature Investment Buyers
+C1031,Individual,Female,USA,Middle East,Rental,No,44,2860451,10,17700198,13606758,3,Mature Investment Buyers
+C1032,Investor,Female,USA,Middle East,Personal Use,Yes,60,4898064,3,10156219,15050703,0,High-Value Investment Buyers
+C1033,Individual,Female,UAE,North America,Personal Use,No,53,797389,8,24997972,5768681,2,Premium Property Buyers
+C1034,Corporate,Female,UAE,Europe,Personal Use,No,28,4555978,1,43667694,13825559,2,Premium Property Buyers
+C1035,Corporate,Male,USA,North America,Commercial,No,44,3866176,8,14323634,6775080,3,Mature Investment Buyers
+C1036,Corporate,Male,USA,Middle East,Personal Use,No,40,4341244,7,36044108,23884086,1,Young Investment Buyers
+C1037,Individual,Male,USA,North India,Rental,Yes,36,4273414,8,5605599,4110566,3,Mature Investment Buyers
+C1038,Corporate,Male,Singapore,North India,Rental,No,32,4004840,1,14316514,11827727,3,Mature Investment Buyers
+C1039,Investor,Male,UAE,South India,Personal Use,Yes,33,3920730,6,31161938,18045242,1,Young Investment Buyers
+C1040,Investor,Male,USA,Asia Pacific,Rental,No,65,2949310,7,11896525,5426423,0,High-Value Investment Buyers
+C1041,Individual,Male,UK,Europe,Personal Use,No,62,2948411,5,27580911,6807676,2,Premium Property Buyers
+C1042,Investor,Female,UK,West India,Personal Use,No,59,3444443,5,8041658,14407024,0,High-Value Investment Buyers
+C1043,Investor,Male,Singapore,Asia Pacific,Investment,Yes,45,1156504,7,48597123,8318835,2,Premium Property Buyers
+C1044,Individual,Male,Singapore,West India,Commercial,No,52,2544149,3,49970156,17672678,2,Premium Property Buyers
+C1045,Corporate,Female,India,South India,Commercial,No,44,2314669,6,19799847,648306,3,Mature Investment Buyers
+C1046,Corporate,Male,India,South India,Investment,Yes,64,2054702,7,13550162,9771230,0,High-Value Investment Buyers
+C1047,Corporate,Male,India,North America,Investment,Yes,29,4689079,1,38733732,21063027,1,Young Investment Buyers
+C1048,Individual,Female,Singapore,Middle East,Commercial,Yes,60,1199469,2,8753281,21914187,0,High-Value Investment Buyers
+C1049,Investor,Male,Singapore,South India,Personal Use,Yes,43,4244111,4,41755274,3506374,2,Premium Property Buyers
+C1050,Corporate,Male,Singapore,South India,Personal Use,No,33,2760038,8,35764588,23693895,1,Young Investment Buyers
+C1051,Corporate,Male,UK,West India,Commercial,No,52,1287171,10,26177942,17800102,0,High-Value Investment Buyers
+C1052,Individual,Female,Singapore,Middle East,Personal Use,No,35,3033361,6,47656201,17876709,1,Young Investment Buyers
+C1053,Corporate,Male,UK,South India,Investment,No,56,521655,1,21898500,5743962,0,High-Value Investment Buyers
+C1054,Individual,Male,India,Asia Pacific,Personal Use,Yes,25,899717,10,17453580,6147244,3,Mature Investment Buyers
+C1055,Investor,Female,India,South India,Personal Use,No,42,2582266,5,44744937,22678662,1,Young Investment Buyers
+C1056,Individual,Male,India,Middle East,Rental,No,36,1021806,7,6190866,10961159,3,Mature Investment Buyers
+C1057,Individual,Female,USA,North America,Rental,No,61,3507129,6,31548135,22333045,0,High-Value Investment Buyers
+C1058,Individual,Female,USA,Europe,Rental,No,30,891043,9,30778353,12348432,1,Young Investment Buyers
+C1059,Individual,Male,UAE,Middle East,Personal Use,Yes,44,3401112,8,49861346,8867568,2,Premium Property Buyers
+C1060,Investor,Female,UAE,West India,Commercial,No,38,1293728,4,29299863,11022479,1,Young Investment Buyers
+C1061,Investor,Female,UAE,Europe,Investment,No,38,1604329,5,9498448,4676213,3,Mature Investment Buyers
+C1062,Corporate,Male,USA,Asia Pacific,Personal Use,No,27,1877850,7,44352521,21520257,1,Young Investment Buyers
+C1063,Investor,Female,USA,North India,Commercial,Yes,24,635888,8,35759595,12487005,1,Young Investment Buyers
+C1064,Investor,Female,UAE,Middle East,Personal Use,Yes,46,4018446,5,38716118,4340624,2,Premium Property Buyers
+C1065,Corporate,Male,UAE,North America,Investment,No,25,2668921,9,10959429,13264588,3,Mature Investment Buyers
+C1066,Investor,Male,Singapore,West India,Personal Use,No,36,4912940,10,30707713,8284081,3,Mature Investment Buyers
+C1067,Individual,Male,UAE,Asia Pacific,Investment,No,55,2302888,4,6666196,17160183,0,High-Value Investment Buyers
+C1068,Individual,Female,Singapore,Europe,Personal Use,Yes,46,1959722,4,48377014,5286431,2,Premium Property Buyers
+C1069,Corporate,Male,UK,Asia Pacific,Investment,No,38,4224741,8,9921207,14573601,3,Mature Investment Buyers
+C1070,Corporate,Female,USA,Middle East,Personal Use,No,49,2652192,1,25860962,8976353,2,Premium Property Buyers
+C1071,Corporate,Female,UAE,South India,Investment,No,43,235797,8,16995164,24186669,1,Young Investment Buyers
+C1072,Individual,Female,USA,North America,Rental,Yes,34,2633573,5,28449820,15606292,1,Young Investment Buyers
+C1073,Investor,Female,USA,Middle East,Personal Use,No,35,1824620,1,8030948,21054484,0,High-Value Investment Buyers
+C1074,Individual,Female,USA,North India,Personal Use,No,53,2682229,4,31114838,5391447,2,Premium Property Buyers
+C1075,Corporate,Female,UK,Middle East,Commercial,Yes,45,3212734,2,29247687,5697535,2,Premium Property Buyers
+C1076,Investor,Female,India,Europe,Commercial,Yes,41,4930165,4,10482571,6204411,3,Mature Investment Buyers
+C1077,Investor,Male,UAE,Europe,Investment,No,37,458062,8,47235567,10676310,1,Young Investment Buyers
+C1078,Individual,Male,India,Middle East,Personal Use,Yes,43,3055251,5,31357257,4085435,2,Premium Property Buyers
+C1079,Corporate,Female,India,Europe,Investment,No,63,2177645,1,21423028,2817165,0,High-Value Investment Buyers
+C1080,Individual,Female,India,South India,Rental,Yes,37,1501471,7,5810713,15631864,3,Mature Investment Buyers
+C1081,Investor,Male,USA,Asia Pacific,Commercial,Yes,34,4879897,1,36986409,1299235,2,Premium Property Buyers
+C1082,Individual,Female,Singapore,Middle East,Investment,No,49,1816548,9,39663163,20603641,1,Young Investment Buyers
+C1083,Individual,Male,USA,North America,Investment,No,40,4504003,3,9512761,24448465,0,High-Value Investment Buyers
+C1084,Corporate,Male,USA,South India,Commercial,No,50,1118143,3,42742018,13096610,2,Premium Property Buyers
+C1085,Corporate,Male,India,Asia Pacific,Personal Use,Yes,39,4200321,6,25440897,7743520,2,Premium Property Buyers
+C1086,Investor,Female,USA,North America,Investment,No,59,4258527,10,25706821,24045542,0,High-Value Investment Buyers
+C1087,Individual,Female,India,North America,Commercial,No,33,1987145,6,46792584,11261021,2,Premium Property Buyers
+C1088,Individual,Male,Singapore,North America,Personal Use,No,38,2197711,6,26490505,11222351,3,Mature Investment Buyers
+C1089,Individual,Male,UAE,Asia Pacific,Rental,No,43,137361,1,39372840,7765341,2,Premium Property Buyers
+C1090,Investor,Male,India,South India,Commercial,No,53,2998845,5,32930327,14562660,0,High-Value Investment Buyers
+C1091,Investor,Male,Singapore,North America,Investment,Yes,59,3563227,6,41804565,20471730,0,High-Value Investment Buyers
+C1092,Corporate,Male,UAE,North America,Rental,No,60,2557856,8,42278192,6787206,2,Premium Property Buyers
+C1093,Corporate,Female,UK,West India,Personal Use,No,38,1861856,1,48931853,5961730,2,Premium Property Buyers
+C1094,Corporate,Male,India,Middle East,Personal Use,Yes,29,2441102,5,45372649,1187055,2,Premium Property Buyers
+C1095,Individual,Female,India,Asia Pacific,Commercial,No,53,3671488,3,7760620,13922577,0,High-Value Investment Buyers
+C1096,Individual,Male,UK,Asia Pacific,Commercial,No,52,100037,2,29670251,1921742,2,Premium Property Buyers
+C1097,Corporate,Female,UK,Europe,Commercial,No,37,3717177,8,7341978,18741510,3,Mature Investment Buyers
+C1098,Individual,Female,India,Asia Pacific,Personal Use,No,39,4597868,7,8399584,11993605,3,Mature Investment Buyers
+C1099,Corporate,Female,UK,South India,Rental,No,47,721531,10,18346619,15272593,3,Mature Investment Buyers
+C1100,Investor,Female,USA,Asia Pacific,Personal Use,Yes,26,753668,7,13908245,18792913,3,Mature Investment Buyers
+C1101,Corporate,Female,UAE,West India,Investment,Yes,55,3504158,5,11019676,16668345,0,High-Value Investment Buyers
+C1102,Investor,Female,UAE,Middle East,Personal Use,Yes,57,2756040,9,14420626,2173783,3,Mature Investment Buyers
+C1103,Individual,Male,UAE,Middle East,Investment,No,54,803645,5,43257146,7265837,2,Premium Property Buyers
+C1104,Corporate,Female,USA,Asia Pacific,Rental,Yes,40,1405927,2,20733529,17178093,1,Young Investment Buyers
+C1105,Individual,Male,UK,North America,Commercial,No,45,2721872,3,15182101,21408824,0,High-Value Investment Buyers
+C1106,Investor,Female,Singapore,North India,Commercial,No,24,693975,4,37317460,972803,2,Premium Property Buyers
+C1107,Investor,Female,UK,North India,Personal Use,No,30,2965728,5,18401315,2034851,3,Mature Investment Buyers
+C1108,Investor,Male,India,North America,Commercial,Yes,30,4083063,3,12914871,14854158,3,Mature Investment Buyers
+C1109,Individual,Female,UAE,North America,Rental,Yes,44,2382373,7,5658561,1093695,3,Mature Investment Buyers
+C1110,Individual,Male,UK,North America,Commercial,Yes,41,2940152,5,31847645,18923889,1,Young Investment Buyers
+C1111,Individual,Male,Singapore,South India,Personal Use,No,31,2650552,5,43887194,4590617,2,Premium Property Buyers
+C1112,Individual,Male,India,North India,Rental,Yes,47,952224,6,36757382,19940832,1,Young Investment Buyers
+C1113,Investor,Male,USA,North America,Investment,No,36,2492735,7,38240467,5313417,2,Premium Property Buyers
+C1114,Investor,Female,USA,South India,Personal Use,Yes,46,1461968,10,8413553,5615068,3,Mature Investment Buyers
+C1115,Corporate,Female,Singapore,Europe,Investment,Yes,50,3722546,10,40698454,20520499,1,Young Investment Buyers
+C1116,Corporate,Male,India,South India,Rental,No,36,4995035,8,17449164,21998953,3,Mature Investment Buyers
+C1117,Individual,Female,UAE,North India,Personal Use,No,27,3706940,9,40864912,10034473,2,Premium Property Buyers
+C1118,Investor,Female,UK,Asia Pacific,Personal Use,Yes,36,3168929,4,7256376,17697345,3,Mature Investment Buyers
+C1119,Investor,Male,India,Europe,Rental,Yes,55,3700200,5,40177357,6849244,2,Premium Property Buyers
+C1120,Investor,Female,USA,North India,Commercial,Yes,36,659031,5,36645971,23183611,1,Young Investment Buyers
+C1121,Corporate,Male,Singapore,South India,Personal Use,No,60,2801243,8,26554043,21079226,0,High-Value Investment Buyers
+C1122,Corporate,Male,Singapore,West India,Personal Use,No,32,2219228,9,35351372,11713351,1,Young Investment Buyers
+C1123,Investor,Female,UK,Middle East,Investment,Yes,55,4535728,7,44621634,4846048,2,Premium Property Buyers
+C1124,Investor,Female,Singapore,North India,Commercial,Yes,41,306384,5,44645145,22689694,1,Young Investment Buyers
+C1125,Investor,Female,Singapore,North America,Investment,No,63,3627089,3,23361297,19157568,0,High-Value Investment Buyers
+C1126,Corporate,Male,India,South India,Investment,Yes,56,4235554,1,32573471,5603555,2,Premium Property Buyers
+C1127,Investor,Male,UAE,North America,Commercial,No,37,4439242,9,10014477,21020584,3,Mature Investment Buyers
+C1128,Investor,Female,UK,North America,Commercial,No,52,3088088,5,32676846,7275951,2,Premium Property Buyers
+C1129,Individual,Female,India,North America,Rental,No,61,1079907,9,39795394,3948196,2,Premium Property Buyers
+C1130,Individual,Female,UAE,North America,Commercial,No,26,313968,10,48255168,10444929,1,Young Investment Buyers
+C1131,Corporate,Female,India,North America,Personal Use,No,44,4682692,4,36979097,20649654,1,Young Investment Buyers
+C1132,Investor,Male,India,Europe,Commercial,No,47,394957,5,44364503,5388362,2,Premium Property Buyers
+C1133,Investor,Female,Singapore,North India,Rental,Yes,40,2001737,4,5107042,7655057,3,Mature Investment Buyers
+C1134,Individual,Male,UAE,North India,Rental,No,45,2447855,2,9962317,21232760,0,High-Value Investment Buyers
+C1135,Corporate,Male,UK,Middle East,Rental,No,22,1564458,1,20336642,21999320,1,Young Investment Buyers
+C1136,Individual,Female,UK,South India,Commercial,Yes,29,2402743,8,16715980,24255532,1,Young Investment Buyers
+C1137,Individual,Female,UAE,West India,Commercial,No,48,4688156,4,33239278,12158111,2,Premium Property Buyers
+C1138,Individual,Female,Singapore,Europe,Investment,Yes,58,1085461,5,17029233,8967351,0,High-Value Investment Buyers
+C1139,Individual,Male,USA,South India,Investment,No,23,2721021,6,11675789,9236394,3,Mature Investment Buyers
+C1140,Investor,Female,India,Europe,Personal Use,Yes,40,3455361,8,26605076,19766099,1,Young Investment Buyers
+C1141,Investor,Female,Singapore,North India,Investment,Yes,26,1906423,8,21283033,14756140,3,Mature Investment Buyers
+C1142,Individual,Male,UAE,North America,Personal Use,No,59,2050408,7,27089730,6248413,2,Premium Property Buyers
+C1143,Corporate,Female,India,Middle East,Rental,No,53,727915,4,46274034,8842490,2,Premium Property Buyers
+C1144,Corporate,Male,UK,Middle East,Investment,No,21,3694128,6,36595971,16493171,1,Young Investment Buyers
+C1145,Corporate,Female,USA,Asia Pacific,Commercial,No,57,1276957,4,44202467,23755904,1,Young Investment Buyers
+C1146,Corporate,Male,UK,West India,Investment,Yes,26,1506427,7,27038322,10913929,3,Mature Investment Buyers
+C1147,Individual,Female,UAE,Middle East,Personal Use,Yes,65,3589550,1,8171050,9617535,0,High-Value Investment Buyers
+C1148,Investor,Female,India,North America,Investment,Yes,54,3995090,5,48895552,14264359,2,Premium Property Buyers
+C1149,Corporate,Male,UAE,North India,Rental,No,35,1945786,10,20614446,4813399,3,Mature Investment Buyers
+C1150,Individual,Male,India,West India,Commercial,Yes,65,2865013,10,32357811,1451399,2,Premium Property Buyers
+C1151,Corporate,Female,Singapore,South India,Personal Use,No,46,136382,4,5073079,6881906,3,Mature Investment Buyers
+C1152,Corporate,Male,USA,North America,Commercial,No,34,962219,7,18655434,12664293,3,Mature Investment Buyers
+C1153,Individual,Male,Singapore,North America,Commercial,Yes,27,1818303,9,28056282,9755211,3,Mature Investment Buyers
+C1154,Investor,Male,Singapore,Middle East,Personal Use,No,51,4152127,5,15124284,16662235,0,High-Value Investment Buyers
+C1155,Investor,Male,UAE,West India,Commercial,Yes,44,1374856,4,14285773,2904710,3,Mature Investment Buyers
+C1156,Individual,Female,USA,North India,Commercial,No,51,3901082,9,8152981,12631695,0,High-Value Investment Buyers
+C1157,Investor,Female,India,Asia Pacific,Investment,Yes,49,3446668,5,16305005,16307231,0,High-Value Investment Buyers
+C1158,Individual,Male,India,Europe,Commercial,No,62,4029268,9,22759051,20122869,0,High-Value Investment Buyers
+C1159,Individual,Male,UK,Europe,Commercial,Yes,52,2807260,8,29427757,17238345,0,High-Value Investment Buyers
+C1160,Individual,Male,India,North India,Commercial,Yes,37,3305677,4,42292041,20390175,1,Young Investment Buyers
+C1161,Investor,Male,UAE,North India,Commercial,No,34,2606068,7,39509372,4960745,2,Premium Property Buyers
+C1162,Individual,Female,Singapore,Europe,Personal Use,No,60,1735407,5,6198061,13716713,0,High-Value Investment Buyers
+C1163,Corporate,Female,Singapore,Asia Pacific,Rental,Yes,56,4192550,10,7323985,12949436,0,High-Value Investment Buyers
+C1164,Investor,Male,Singapore,West India,Investment,No,44,583075,4,6247880,16052975,0,High-Value Investment Buyers
+C1165,Investor,Male,USA,Europe,Commercial,No,65,4059770,5,35258064,24716000,0,High-Value Investment Buyers
+C1166,Investor,Male,India,North India,Commercial,No,47,1877310,5,38308389,11121840,2,Premium Property Buyers
+C1167,Investor,Female,UAE,Middle East,Personal Use,Yes,45,427370,9,37983655,13230804,1,Young Investment Buyers
+C1168,Corporate,Male,USA,South India,Rental,Yes,52,3028751,9,31528441,9353372,2,Premium Property Buyers
+C1169,Investor,Female,UK,Asia Pacific,Commercial,No,38,2264533,6,48997361,2750477,2,Premium Property Buyers
+C1170,Investor,Male,UAE,North America,Personal Use,No,38,933142,4,12754757,14029652,3,Mature Investment Buyers
+C1171,Individual,Female,UAE,Asia Pacific,Investment,Yes,57,4573214,2,31782243,4754567,2,Premium Property Buyers
+C1172,Investor,Male,UAE,Middle East,Investment,No,46,4396720,3,22667864,21328372,0,High-Value Investment Buyers
+C1173,Corporate,Female,Singapore,Middle East,Commercial,Yes,29,3782796,2,24172877,7414996,3,Mature Investment Buyers
+C1174,Corporate,Male,UAE,North America,Commercial,No,55,942653,5,37830188,1667208,2,Premium Property Buyers
+C1175,Corporate,Male,India,North India,Rental,No,28,1936517,6,44528732,8701319,2,Premium Property Buyers
+C1176,Corporate,Male,UAE,Europe,Rental,No,40,451637,5,17943689,23585247,1,Young Investment Buyers
+C1177,Investor,Female,Singapore,West India,Commercial,Yes,62,277946,2,11701828,1822924,0,High-Value Investment Buyers
+C1178,Investor,Male,UAE,Asia Pacific,Personal Use,Yes,42,964899,5,33632772,9949136,2,Premium Property Buyers
+C1179,Corporate,Female,UK,North America,Rental,Yes,39,363503,9,42340923,12117659,1,Young Investment Buyers
+C1180,Corporate,Female,UK,Asia Pacific,Commercial,Yes,50,2418292,4,41644439,22685040,1,Young Investment Buyers
+C1181,Investor,Male,Singapore,Middle East,Rental,No,48,2126393,10,38604583,7476192,2,Premium Property Buyers
+C1182,Corporate,Male,India,Europe,Commercial,No,55,3102083,2,10834552,2270020,0,High-Value Investment Buyers
+C1183,Individual,Male,India,Asia Pacific,Investment,Yes,63,4626226,3,30238671,9031320,2,Premium Property Buyers
+C1184,Corporate,Female,USA,West India,Commercial,No,31,2479897,3,7839611,13371493,3,Mature Investment Buyers
+C1185,Corporate,Male,Singapore,Middle East,Investment,No,51,1394416,9,24086179,15958874,0,High-Value Investment Buyers
+C1186,Individual,Female,UAE,West India,Rental,Yes,59,2085196,4,16412554,16443416,0,High-Value Investment Buyers
+C1187,Individual,Female,Singapore,Europe,Commercial,No,56,4018198,1,8883755,15731215,0,High-Value Investment Buyers
+C1188,Investor,Male,USA,Asia Pacific,Rental,No,50,1660121,1,9617663,13388437,0,High-Value Investment Buyers
+C1189,Investor,Male,Singapore,South India,Investment,Yes,43,543035,7,12233469,17720388,3,Mature Investment Buyers
+C1190,Individual,Male,Singapore,Asia Pacific,Commercial,No,39,3199072,7,33731666,9880638,2,Premium Property Buyers
+C1191,Individual,Male,USA,Europe,Rental,No,32,2135115,2,38654351,13368957,1,Young Investment Buyers
+C1192,Investor,Male,India,Asia Pacific,Investment,No,35,789317,9,48208362,19299279,1,Young Investment Buyers
+C1193,Corporate,Male,UAE,North America,Rental,Yes,51,4652636,9,16728356,17139758,0,High-Value Investment Buyers
+C1194,Individual,Female,USA,Asia Pacific,Personal Use,Yes,63,851240,5,25321666,18035118,0,High-Value Investment Buyers
+C1195,Investor,Female,UK,North India,Investment,No,57,4415596,3,16088638,7663068,0,High-Value Investment Buyers
+C1196,Corporate,Female,India,Asia Pacific,Investment,No,57,4384874,3,45136263,866099,2,Premium Property Buyers
+C1197,Individual,Male,UK,Asia Pacific,Investment,No,35,1095791,3,19235173,22405228,1,Young Investment Buyers
+C1198,Corporate,Female,India,West India,Commercial,Yes,49,2320943,6,12417155,22015563,0,High-Value Investment Buyers
+C1199,Investor,Female,UAE,South India,Commercial,Yes,63,3162138,4,23625739,7579981,0,High-Value Investment Buyers
+C1200,Individual,Female,UAE,West India,Commercial,Yes,46,1641121,8,39952363,10819935,2,Premium Property Buyers
+C1201,Corporate,Female,Singapore,West India,Personal Use,No,64,2060299,5,13820446,22805180,0,High-Value Investment Buyers
+C1202,Individual,Female,UK,Middle East,Personal Use,No,22,2953501,1,20887604,13025186,3,Mature Investment Buyers
+C1203,Corporate,Male,India,North India,Investment,No,40,2927433,9,18438654,22170920,1,Young Investment Buyers
+C1204,Investor,Male,UAE,West India,Personal Use,No,35,2559622,1,6987881,16134890,0,High-Value Investment Buyers
+C1205,Investor,Female,USA,North America,Rental,No,24,1997459,6,28237439,6395882,3,Mature Investment Buyers
+C1206,Individual,Female,UAE,Europe,Investment,Yes,42,4340012,1,47603006,16320184,2,Premium Property Buyers
+C1207,Corporate,Female,USA,North America,Investment,No,58,4049842,3,12737726,23128821,0,High-Value Investment Buyers
+C1208,Individual,Male,India,Europe,Rental,No,43,1315442,10,25561612,5830605,3,Mature Investment Buyers
+C1209,Individual,Male,UAE,Asia Pacific,Investment,No,46,4217095,5,44274344,24995176,1,Young Investment Buyers
+C1210,Corporate,Female,UAE,Middle East,Personal Use,Yes,31,2680309,10,11141092,4804979,3,Mature Investment Buyers
+C1211,Corporate,Male,India,North India,Commercial,No,48,3415537,7,34299953,22791476,1,Young Investment Buyers
+C1212,Corporate,Male,UAE,North America,Rental,Yes,22,2691318,10,37134370,15161065,1,Young Investment Buyers
+C1213,Investor,Female,USA,North India,Personal Use,Yes,28,4347328,8,17209707,3456181,3,Mature Investment Buyers
+C1214,Individual,Male,UAE,North America,Rental,Yes,49,1551469,9,17443843,5958076,3,Mature Investment Buyers
+C1215,Individual,Male,UK,Asia Pacific,Rental,Yes,31,3400874,6,8843941,23703646,3,Mature Investment Buyers
+C1216,Investor,Female,Singapore,Europe,Investment,Yes,57,4836416,9,21600267,15804008,0,High-Value Investment Buyers
+C1217,Corporate,Male,USA,South India,Investment,No,38,4163997,8,40819977,13379420,2,Premium Property Buyers
+C1218,Investor,Male,UK,Middle East,Personal Use,No,34,4812838,9,11574909,8471391,3,Mature Investment Buyers
+C1219,Investor,Female,India,North America,Rental,Yes,30,148926,10,36344896,18293703,1,Young Investment Buyers
+C1220,Investor,Male,USA,North America,Investment,Yes,55,3851387,4,36747600,24973802,0,High-Value Investment Buyers
+C1221,Individual,Male,Singapore,Asia Pacific,Investment,Yes,29,2879060,9,47536207,6934548,2,Premium Property Buyers
+C1222,Investor,Female,Singapore,Middle East,Rental,No,55,4657418,7,12560116,4228489,0,High-Value Investment Buyers
+C1223,Individual,Female,India,Europe,Personal Use,No,31,583791,5,19558408,21712992,1,Young Investment Buyers
+C1224,Individual,Female,India,Europe,Personal Use,Yes,64,1770930,5,13297530,10109533,0,High-Value Investment Buyers
+C1225,Individual,Male,USA,North America,Rental,No,32,2258714,1,31936182,10941909,1,Young Investment Buyers
+C1226,Corporate,Female,UAE,South India,Personal Use,No,23,3548281,2,35155144,21772166,1,Young Investment Buyers
+C1227,Individual,Male,India,South India,Investment,Yes,59,2150181,10,14037451,13098587,0,High-Value Investment Buyers
+C1228,Individual,Female,UAE,North India,Rental,Yes,34,896266,3,8501174,17233956,3,Mature Investment Buyers
+C1229,Corporate,Male,UK,Middle East,Investment,No,48,2722280,8,47851880,14249872,2,Premium Property Buyers
+C1230,Individual,Female,Singapore,Middle East,Commercial,No,31,4325872,6,46111361,18404021,1,Young Investment Buyers
+C1231,Investor,Female,UAE,Europe,Commercial,No,59,761259,10,39344455,20081876,1,Young Investment Buyers
+C1232,Investor,Female,Singapore,North India,Personal Use,Yes,45,710326,5,43891190,6094181,2,Premium Property Buyers
+C1233,Individual,Female,UAE,Asia Pacific,Commercial,Yes,41,1345749,1,28326388,10157503,2,Premium Property Buyers
+C1234,Corporate,Male,UK,Middle East,Investment,Yes,30,1056277,9,12099283,18955791,3,Mature Investment Buyers
+C1235,Investor,Female,India,North India,Commercial,No,63,2326941,3,11214566,8474410,0,High-Value Investment Buyers
+C1236,Corporate,Female,UK,North India,Investment,No,35,1518180,3,41716898,21302697,1,Young Investment Buyers
+C1237,Corporate,Male,India,North America,Personal Use,Yes,39,4796298,2,39736711,6728462,2,Premium Property Buyers
+C1238,Investor,Female,India,Europe,Personal Use,No,42,174723,4,6721841,8840134,3,Mature Investment Buyers
+C1239,Corporate,Male,Singapore,North India,Investment,Yes,41,3118967,2,48534960,7517718,2,Premium Property Buyers
+C1240,Investor,Female,UK,South India,Commercial,No,64,3826904,9,29627489,11798657,0,High-Value Investment Buyers
+C1241,Corporate,Female,UAE,South India,Personal Use,Yes,52,1633017,10,21112440,6561598,3,Mature Investment Buyers
+C1242,Investor,Female,UK,West India,Rental,No,43,892515,7,45536695,9991979,2,Premium Property Buyers
+C1243,Individual,Male,Singapore,Europe,Personal Use,No,33,1493196,8,14212230,8797714,3,Mature Investment Buyers
+C1244,Investor,Female,India,North America,Commercial,Yes,25,1135211,3,31942759,22890379,1,Young Investment Buyers
+C1245,Investor,Female,Singapore,Asia Pacific,Rental,Yes,24,2289568,6,34074829,18011759,1,Young Investment Buyers
+C1246,Investor,Female,USA,West India,Commercial,Yes,48,4034740,10,20592059,13186757,3,Mature Investment Buyers
+C1247,Investor,Male,USA,South India,Investment,Yes,34,747122,6,41439796,1860706,2,Premium Property Buyers
+C1248,Corporate,Male,UAE,North America,Rental,Yes,28,3882164,1,22262075,9849313,3,Mature Investment Buyers
+C1249,Individual,Female,Singapore,West India,Commercial,No,29,1861331,6,30880442,14043731,1,Young Investment Buyers
+C1250,Investor,Male,UAE,Europe,Rental,Yes,55,1977329,3,30208016,16566180,0,High-Value Investment Buyers
+C1251,Corporate,Female,UAE,North America,Commercial,Yes,57,2992970,3,14279915,4487338,0,High-Value Investment Buyers
+C1252,Individual,Female,USA,Europe,Rental,Yes,41,415315,3,47951048,21201464,1,Young Investment Buyers
+C1253,Individual,Female,UAE,North India,Commercial,Yes,38,250594,10,39964281,3899458,2,Premium Property Buyers
+C1254,Individual,Female,USA,Middle East,Investment,Yes,53,820892,10,46986963,22337589,1,Young Investment Buyers
+C1255,Individual,Female,India,North India,Rental,No,28,4163903,8,6662060,20296900,3,Mature Investment Buyers
+C1256,Investor,Female,Singapore,Europe,Rental,Yes,37,4479455,5,28066488,11215093,2,Premium Property Buyers
+C1257,Investor,Female,UAE,North America,Rental,Yes,63,4059015,4,12704625,15752918,0,High-Value Investment Buyers
+C1258,Corporate,Male,USA,South India,Rental,Yes,51,2232942,9,16918227,11858815,0,High-Value Investment Buyers
+C1259,Corporate,Male,UK,Asia Pacific,Investment,No,54,2772452,9,16238504,21948428,0,High-Value Investment Buyers
+C1260,Corporate,Male,UAE,South India,Rental,No,26,2314979,1,32858292,15526292,1,Young Investment Buyers
+C1261,Individual,Male,India,North America,Personal Use,Yes,42,3505851,2,39501658,14549471,2,Premium Property Buyers
+C1262,Individual,Male,India,North India,Investment,Yes,34,296211,8,12740359,748595,3,Mature Investment Buyers
+C1263,Investor,Male,UK,Asia Pacific,Personal Use,No,23,1936082,5,14155359,10840969,3,Mature Investment Buyers
+C1264,Individual,Male,USA,North America,Rental,No,32,2337699,7,9859648,8468737,3,Mature Investment Buyers
+C1265,Individual,Female,UAE,Europe,Commercial,No,56,4440496,1,23840848,8694563,0,High-Value Investment Buyers
+C1266,Individual,Female,USA,South India,Personal Use,Yes,32,4558434,10,7976760,2776881,3,Mature Investment Buyers
+C1267,Corporate,Female,India,Europe,Rental,Yes,65,1913065,5,17262024,7979602,0,High-Value Investment Buyers
+C1268,Corporate,Female,USA,Asia Pacific,Personal Use,No,22,4687281,3,12629100,6996195,3,Mature Investment Buyers
+C1269,Investor,Male,India,Asia Pacific,Rental,Yes,22,4902850,10,32708895,22807347,1,Young Investment Buyers
+C1270,Individual,Male,USA,South India,Rental,No,35,477332,2,34498911,15864217,1,Young Investment Buyers
+C1271,Individual,Female,UK,Europe,Rental,No,43,184153,2,20985928,18197416,1,Young Investment Buyers
+C1272,Investor,Female,Singapore,West India,Commercial,No,49,1226018,9,43243923,9728879,2,Premium Property Buyers
+C1273,Individual,Male,UK,Europe,Personal Use,Yes,37,4072162,4,46130299,9926371,2,Premium Property Buyers
+C1274,Individual,Female,UK,Asia Pacific,Investment,No,52,4272060,4,21650240,12837210,0,High-Value Investment Buyers
+C1275,Corporate,Female,Singapore,Europe,Investment,No,27,1408064,7,25274936,20093516,1,Young Investment Buyers
+C1276,Investor,Female,Singapore,North America,Investment,Yes,50,178947,10,41446270,1678152,2,Premium Property Buyers
+C1277,Investor,Female,UAE,North India,Investment,No,48,2053980,10,41404899,21481285,1,Young Investment Buyers
+C1278,Investor,Male,UAE,West India,Rental,Yes,34,2638361,2,15956096,4023700,3,Mature Investment Buyers
+C1279,Investor,Female,UK,Middle East,Personal Use,No,64,4069411,3,20603533,2607154,0,High-Value Investment Buyers
+C1280,Corporate,Female,UK,North America,Personal Use,Yes,50,1068410,3,16743383,10721325,0,High-Value Investment Buyers
+C1281,Corporate,Male,India,North India,Commercial,No,37,2510912,6,30092739,19123614,1,Young Investment Buyers
+C1282,Individual,Male,India,Middle East,Personal Use,No,52,2699087,3,21907725,19549876,0,High-Value Investment Buyers
+C1283,Individual,Female,UAE,South India,Personal Use,No,26,4036642,5,41413656,22778542,1,Young Investment Buyers
+C1284,Individual,Male,UAE,Middle East,Personal Use,No,44,2567286,4,36420184,17754914,1,Young Investment Buyers
+C1285,Individual,Female,India,North America,Commercial,No,26,3467764,3,41179145,3632196,2,Premium Property Buyers
+C1286,Corporate,Female,India,Europe,Investment,Yes,47,3711880,8,39094050,23814292,1,Young Investment Buyers
+C1287,Investor,Male,USA,North America,Personal Use,Yes,38,794934,10,24026934,9419537,3,Mature Investment Buyers
+C1288,Corporate,Female,USA,Middle East,Commercial,No,44,1140835,3,32863686,24001197,1,Young Investment Buyers
+C1289,Individual,Female,India,Asia Pacific,Commercial,No,57,1978292,6,5908521,20700712,0,High-Value Investment Buyers
+C1290,Corporate,Female,USA,North India,Rental,No,44,4563786,7,5003212,20432910,0,High-Value Investment Buyers
+C1291,Investor,Female,Singapore,North India,Commercial,Yes,58,242617,7,13620739,19594790,0,High-Value Investment Buyers
+C1292,Investor,Male,UAE,Middle East,Investment,Yes,54,1368962,2,5476657,10985460,0,High-Value Investment Buyers
+C1293,Corporate,Male,UAE,North India,Personal Use,No,60,2201847,3,15049066,13578433,0,High-Value Investment Buyers
+C1294,Corporate,Female,India,Asia Pacific,Commercial,Yes,35,1130120,10,46026616,14471815,1,Young Investment Buyers
+C1295,Corporate,Male,UK,North America,Investment,No,31,1134780,10,21023459,11744672,3,Mature Investment Buyers
+C1296,Individual,Female,India,North India,Commercial,No,42,3784334,4,27042103,9942143,2,Premium Property Buyers
+C1297,Corporate,Female,USA,Middle East,Commercial,No,44,1564123,7,5638093,6687641,3,Mature Investment Buyers
+C1298,Corporate,Female,UK,West India,Commercial,Yes,21,1856608,2,8490513,11298706,3,Mature Investment Buyers
+C1299,Corporate,Female,USA,West India,Commercial,No,38,2667228,3,12960135,14088164,3,Mature Investment Buyers
+C1300,Investor,Female,Singapore,South India,Commercial,No,64,849045,7,26804767,16877053,0,High-Value Investment Buyers
+C1301,Investor,Male,USA,North India,Investment,No,32,972109,7,22102953,15165941,1,Young Investment Buyers
+C1302,Individual,Female,Singapore,North America,Personal Use,Yes,63,4134480,10,17046500,16614579,0,High-Value Investment Buyers
+C1303,Individual,Male,Singapore,Middle East,Personal Use,Yes,48,487405,3,44923926,6846502,2,Premium Property Buyers
+C1304,Investor,Male,USA,North India,Personal Use,Yes,60,4661786,1,14793227,22509990,0,High-Value Investment Buyers
+C1305,Investor,Female,USA,Europe,Personal Use,No,27,4858669,3,33053144,14122001,1,Young Investment Buyers
+C1306,Investor,Female,Singapore,Asia Pacific,Investment,Yes,43,4636363,5,36186498,1905313,2,Premium Property Buyers
+C1307,Corporate,Female,UK,North India,Rental,No,41,1808175,7,12356505,11413070,3,Mature Investment Buyers
+C1308,Corporate,Female,Singapore,North India,Rental,Yes,54,3487232,4,26624579,4861502,2,Premium Property Buyers
+C1309,Investor,Female,UAE,West India,Investment,No,31,3201004,1,43923113,4663121,2,Premium Property Buyers
+C1310,Corporate,Male,Singapore,Asia Pacific,Investment,Yes,42,3032208,6,44748835,5035484,2,Premium Property Buyers
+C1311,Corporate,Female,UK,Middle East,Commercial,No,62,2010155,2,39448462,4186788,2,Premium Property Buyers
+C1312,Individual,Female,UAE,North India,Commercial,Yes,55,1808086,3,17042588,13000426,0,High-Value Investment Buyers
+C1313,Investor,Male,India,West India,Commercial,Yes,49,4287442,4,10467977,19950599,0,High-Value Investment Buyers
+C1314,Investor,Male,India,South India,Personal Use,Yes,62,3912197,6,19979028,17608228,0,High-Value Investment Buyers
+C1315,Corporate,Female,UK,Asia Pacific,Commercial,No,48,4000838,6,33527485,9566186,2,Premium Property Buyers
+C1316,Investor,Male,Singapore,West India,Rental,Yes,38,781376,7,33631285,13708324,1,Young Investment Buyers
+C1317,Individual,Female,USA,West India,Personal Use,Yes,34,1815872,5,48272174,24567184,1,Young Investment Buyers
+C1318,Individual,Male,UK,North America,Commercial,Yes,38,1056740,7,46283986,24936597,1,Young Investment Buyers
+C1319,Individual,Male,UAE,West India,Personal Use,Yes,48,2310846,2,49625011,7451775,2,Premium Property Buyers
+C1320,Investor,Female,UAE,North America,Rental,No,44,4528760,1,35780850,13296963,2,Premium Property Buyers
+C1321,Investor,Male,India,North India,Commercial,Yes,28,2409231,10,34867537,7229806,3,Mature Investment Buyers
+C1322,Investor,Male,UAE,North India,Rental,No,62,4710764,8,28078059,9438770,0,High-Value Investment Buyers
+C1323,Investor,Male,UK,South India,Rental,No,65,1604819,1,36703032,20029663,0,High-Value Investment Buyers
+C1324,Investor,Male,UAE,Europe,Rental,No,28,4595433,2,28669775,21997109,1,Young Investment Buyers
+C1325,Individual,Male,UK,Europe,Commercial,No,24,2067582,10,26523392,18645953,1,Young Investment Buyers
+C1326,Corporate,Male,USA,Europe,Investment,Yes,47,940268,6,26540591,15925040,1,Young Investment Buyers
+C1327,Individual,Female,India,North America,Commercial,No,56,3830864,1,18292599,4978903,0,High-Value Investment Buyers
+C1328,Investor,Female,UAE,Asia Pacific,Rental,No,25,152635,10,25563046,12353513,3,Mature Investment Buyers
+C1329,Individual,Male,UK,Asia Pacific,Commercial,No,53,4315250,3,5250139,18829086,0,High-Value Investment Buyers
+C1330,Investor,Female,Singapore,South India,Rental,No,54,1083638,7,32131584,3835160,2,Premium Property Buyers
+C1331,Investor,Female,India,Asia Pacific,Investment,Yes,50,4075904,8,47443268,4686321,2,Premium Property Buyers
+C1332,Individual,Female,USA,Europe,Personal Use,Yes,28,3363457,4,48689237,8789681,2,Premium Property Buyers
+C1333,Investor,Male,UK,Europe,Investment,No,59,4286080,3,45705908,15549132,2,Premium Property Buyers
+C1334,Corporate,Female,USA,West India,Investment,No,46,2891671,1,18517411,22552831,0,High-Value Investment Buyers
+C1335,Investor,Male,USA,Asia Pacific,Personal Use,No,57,2161892,9,39333071,7650669,2,Premium Property Buyers
+C1336,Corporate,Female,UAE,North India,Commercial,Yes,54,3531543,10,43527295,10178391,2,Premium Property Buyers
+C1337,Corporate,Male,UAE,North India,Personal Use,Yes,27,4178140,6,30771086,6655343,3,Mature Investment Buyers
+C1338,Investor,Male,UK,West India,Commercial,Yes,60,3696219,6,36006393,15308369,0,High-Value Investment Buyers
+C1339,Individual,Female,Singapore,West India,Commercial,Yes,48,3565685,9,15698925,14854489,0,High-Value Investment Buyers
+C1340,Corporate,Female,UK,West India,Rental,Yes,59,196748,1,35573044,2180913,2,Premium Property Buyers
+C1341,Individual,Male,Singapore,North India,Rental,No,59,4009308,6,42490238,21886447,0,High-Value Investment Buyers
+C1342,Corporate,Female,USA,Europe,Personal Use,Yes,48,1548598,5,30876555,9731329,2,Premium Property Buyers
+C1343,Investor,Female,India,West India,Investment,Yes,34,4923325,6,42472571,17558313,1,Young Investment Buyers
+C1344,Investor,Female,UK,South India,Personal Use,No,58,1058395,8,7402112,22883172,0,High-Value Investment Buyers
+C1345,Corporate,Male,UK,North America,Commercial,Yes,24,1015767,5,16623796,23827618,1,Young Investment Buyers
+C1346,Investor,Male,Singapore,West India,Rental,Yes,62,401364,2,23132048,19453298,0,High-Value Investment Buyers
+C1347,Corporate,Female,USA,North America,Personal Use,Yes,38,1427878,2,33362600,23755660,1,Young Investment Buyers
+C1348,Investor,Female,USA,Middle East,Personal Use,No,64,3142244,10,40575423,20686155,0,High-Value Investment Buyers
+C1349,Individual,Female,Singapore,West India,Rental,Yes,45,3469415,5,34143736,5037229,2,Premium Property Buyers
+C1350,Investor,Male,USA,North India,Rental,No,27,2518126,3,21206833,11126691,3,Mature Investment Buyers
+C1351,Individual,Male,UAE,Asia Pacific,Rental,No,58,2209571,10,27877254,14684940,0,High-Value Investment Buyers
+C1352,Investor,Female,India,West India,Commercial,Yes,48,3803713,3,22800021,11899772,0,High-Value Investment Buyers
+C1353,Individual,Female,UK,Asia Pacific,Rental,Yes,25,3592804,8,43055668,5452034,2,Premium Property Buyers
+C1354,Investor,Female,India,Middle East,Investment,Yes,23,481856,7,11558347,19735763,3,Mature Investment Buyers
+C1355,Individual,Female,UK,South India,Personal Use,Yes,64,3743512,1,49564525,3920690,2,Premium Property Buyers
+C1356,Corporate,Female,UAE,Asia Pacific,Rental,No,51,3865444,5,20692846,18597271,0,High-Value Investment Buyers
+C1357,Corporate,Female,USA,North America,Rental,Yes,62,863361,9,47854548,14633059,2,Premium Property Buyers
+C1358,Individual,Male,Singapore,Europe,Commercial,No,40,2808089,4,6727373,817152,3,Mature Investment Buyers
+C1359,Investor,Female,UAE,West India,Commercial,No,39,4679097,1,38695358,22170028,1,Young Investment Buyers
+C1360,Individual,Male,India,Middle East,Personal Use,No,31,4116899,8,21960364,8096477,3,Mature Investment Buyers
+C1361,Investor,Female,Singapore,Middle East,Investment,No,60,3408085,5,46646052,17351132,2,Premium Property Buyers
+C1362,Corporate,Female,USA,Asia Pacific,Personal Use,No,23,4055199,2,27696804,14790924,1,Young Investment Buyers
+C1363,Investor,Male,UAE,South India,Rental,Yes,43,4098880,1,35574072,14106497,2,Premium Property Buyers
+C1364,Corporate,Male,Singapore,North India,Investment,No,27,3368896,3,30660320,6570517,2,Premium Property Buyers
+C1365,Investor,Male,UAE,West India,Investment,No,43,1761127,9,44768837,21875831,1,Young Investment Buyers
+C1366,Investor,Male,UAE,Middle East,Investment,Yes,27,4353459,1,44262451,12672207,2,Premium Property Buyers
+C1367,Investor,Female,USA,South India,Investment,Yes,54,4756630,4,46126361,1109003,2,Premium Property Buyers
+C1368,Individual,Male,UK,Europe,Personal Use,No,62,2954135,8,28501181,19610944,0,High-Value Investment Buyers
+C1369,Individual,Female,Singapore,Middle East,Commercial,No,39,576377,8,46387110,16257040,1,Young Investment Buyers
+C1370,Corporate,Male,USA,South India,Commercial,Yes,29,498422,10,26584360,10938985,3,Mature Investment Buyers
+C1371,Corporate,Female,UAE,North India,Rental,No,38,221937,8,18415460,21977887,1,Young Investment Buyers
+C1372,Individual,Female,USA,North India,Commercial,Yes,61,1233629,10,30548429,12757042,0,High-Value Investment Buyers
+C1373,Corporate,Female,UK,Middle East,Commercial,Yes,65,478355,8,34924900,12121446,0,High-Value Investment Buyers
+C1374,Individual,Female,Singapore,North America,Commercial,No,62,1991369,4,47890759,15470770,2,Premium Property Buyers
+C1375,Investor,Female,UK,Middle East,Commercial,Yes,45,4093611,8,18975270,17295726,0,High-Value Investment Buyers
+C1376,Corporate,Female,India,Asia Pacific,Rental,No,34,1448416,9,24533132,12620232,3,Mature Investment Buyers
+C1377,Corporate,Male,Singapore,West India,Personal Use,No,64,3215848,7,34528460,3960054,2,Premium Property Buyers
+C1378,Individual,Female,UK,South India,Investment,No,45,1775259,2,16634983,13842899,0,High-Value Investment Buyers
+C1379,Corporate,Male,UAE,Middle East,Commercial,Yes,39,1139474,9,17124266,11536931,3,Mature Investment Buyers
+C1380,Corporate,Male,Singapore,West India,Personal Use,No,59,2059129,8,25659035,13809699,0,High-Value Investment Buyers
+C1381,Investor,Female,Singapore,Asia Pacific,Commercial,Yes,35,649391,5,14221049,24259876,1,Young Investment Buyers
+C1382,Corporate,Male,USA,West India,Commercial,No,36,527479,3,10204497,18213448,1,Young Investment Buyers
+C1383,Investor,Female,UAE,Middle East,Investment,No,47,1460764,7,43926136,22225803,1,Young Investment Buyers
+C1384,Individual,Male,India,North India,Investment,Yes,60,3271553,2,12107493,2468487,0,High-Value Investment Buyers
+C1385,Corporate,Female,UK,South India,Investment,No,30,2694545,3,33946719,22752476,1,Young Investment Buyers
+C1386,Investor,Male,USA,South India,Commercial,No,24,3282999,9,27975169,15265898,3,Mature Investment Buyers
+C1387,Individual,Female,UK,North India,Commercial,Yes,39,1225832,4,13222496,1919702,3,Mature Investment Buyers
+C1388,Corporate,Female,India,North America,Commercial,Yes,48,3347727,4,5127319,17329964,0,High-Value Investment Buyers
+C1389,Individual,Female,India,Middle East,Investment,Yes,41,2953502,3,39066625,12879789,2,Premium Property Buyers
+C1390,Corporate,Female,Singapore,South India,Rental,No,34,662834,5,9301264,9999835,3,Mature Investment Buyers
+C1391,Individual,Male,India,Middle East,Personal Use,Yes,53,940597,3,46982055,21374520,1,Young Investment Buyers
+C1392,Individual,Female,UK,Asia Pacific,Rental,Yes,30,950122,9,18965345,17305885,3,Mature Investment Buyers
+C1393,Investor,Male,UAE,Middle East,Commercial,No,39,4741184,3,5728165,12434834,3,Mature Investment Buyers
+C1394,Individual,Male,UAE,West India,Commercial,Yes,50,2672703,2,31098302,19246603,0,High-Value Investment Buyers
+C1395,Corporate,Male,Singapore,North India,Rental,No,42,830559,5,39488103,21227121,1,Young Investment Buyers
+C1396,Corporate,Female,UK,North America,Commercial,No,23,621727,6,11513231,24263465,1,Young Investment Buyers
+C1397,Investor,Male,UK,Middle East,Personal Use,Yes,57,1962015,1,7824665,13316582,0,High-Value Investment Buyers
+C1398,Corporate,Male,India,North America,Commercial,No,61,2550503,6,35106483,14952475,0,High-Value Investment Buyers
+C1399,Corporate,Male,UK,North America,Personal Use,Yes,38,1632713,10,41560806,10756299,2,Premium Property Buyers
+C1400,Corporate,Female,USA,Asia Pacific,Rental,Yes,31,3060356,3,29174127,6817197,2,Premium Property Buyers
+C1401,Individual,Female,India,Europe,Rental,Yes,22,4840616,4,31394957,18479150,1,Young Investment Buyers
+C1402,Individual,Male,USA,North India,Commercial,Yes,32,2105464,6,31443703,10065697,3,Mature Investment Buyers
+C1403,Corporate,Female,Singapore,North America,Personal Use,No,26,2976673,8,25926874,5508029,3,Mature Investment Buyers
+C1404,Investor,Female,UAE,South India,Commercial,No,63,1382322,9,5674075,19877233,0,High-Value Investment Buyers
+C1405,Individual,Male,Singapore,West India,Investment,Yes,60,4705677,6,32880207,10211646,2,Premium Property Buyers
+C1406,Investor,Male,UAE,South India,Investment,Yes,64,4117641,7,5742476,8806411,0,High-Value Investment Buyers
+C1407,Corporate,Female,Singapore,Asia Pacific,Investment,No,49,1643912,5,39115464,19639567,1,Young Investment Buyers
+C1408,Corporate,Male,UK,Asia Pacific,Investment,Yes,50,3596425,9,11416153,1145452,3,Mature Investment Buyers
+C1409,Individual,Female,USA,South India,Commercial,No,22,1805692,4,17015131,2155443,3,Mature Investment Buyers
+C1410,Corporate,Female,UAE,North India,Investment,Yes,29,1108507,10,17174696,16890320,3,Mature Investment Buyers
+C1411,Individual,Female,India,South India,Personal Use,No,22,726776,6,49435532,22624913,1,Young Investment Buyers
+C1412,Corporate,Female,USA,Middle East,Rental,No,49,2818181,5,40887612,6228790,2,Premium Property Buyers
+C1413,Corporate,Female,India,South India,Rental,No,53,1861987,1,37150691,1890688,2,Premium Property Buyers
+C1414,Individual,Female,USA,West India,Investment,Yes,30,1082099,5,39610184,15632898,1,Young Investment Buyers
+C1415,Individual,Male,USA,West India,Investment,Yes,54,3586082,5,25699597,18745052,0,High-Value Investment Buyers
+C1416,Individual,Male,Singapore,Europe,Investment,Yes,64,1650642,9,40061042,3798771,2,Premium Property Buyers
+C1417,Corporate,Female,UAE,West India,Commercial,Yes,28,1891825,1,26485131,19106134,1,Young Investment Buyers
+C1418,Corporate,Female,UAE,South India,Rental,Yes,57,3210041,5,39648185,7838298,2,Premium Property Buyers
+C1419,Investor,Female,USA,West India,Investment,No,53,2594903,7,8671013,15071551,0,High-Value Investment Buyers
+C1420,Individual,Male,UK,North India,Personal Use,No,26,616031,6,49492738,2670972,2,Premium Property Buyers
+C1421,Corporate,Female,UK,North America,Investment,No,64,147367,6,10155577,20007718,0,High-Value Investment Buyers
+C1422,Corporate,Male,India,West India,Rental,No,60,1732748,7,22273400,6481441,0,High-Value Investment Buyers
+C1423,Individual,Female,India,Middle East,Investment,No,65,4962944,6,6034549,24090789,0,High-Value Investment Buyers
+C1424,Investor,Female,Singapore,North India,Rental,No,39,464716,5,28713139,12490235,1,Young Investment Buyers
+C1425,Individual,Male,USA,Europe,Investment,No,52,2774691,10,12287613,10677641,3,Mature Investment Buyers
+C1426,Investor,Male,India,Middle East,Personal Use,Yes,47,344697,5,5095287,18446147,0,High-Value Investment Buyers
+C1427,Corporate,Female,India,South India,Investment,No,21,554623,9,16653910,20492991,1,Young Investment Buyers
+C1428,Investor,Female,USA,North America,Personal Use,Yes,63,1410646,8,13330512,13224780,0,High-Value Investment Buyers
+C1429,Corporate,Female,Singapore,South India,Personal Use,No,53,141340,10,16266511,22523977,0,High-Value Investment Buyers
+C1430,Individual,Male,India,North America,Investment,No,60,1069738,4,18752997,3137108,0,High-Value Investment Buyers
+C1431,Individual,Male,Singapore,North America,Personal Use,Yes,52,992743,4,23173383,23800461,0,High-Value Investment Buyers
+C1432,Individual,Male,UAE,South India,Commercial,No,25,2114751,10,16983517,15345448,3,Mature Investment Buyers
+C1433,Investor,Male,Singapore,Middle East,Investment,Yes,37,1513285,5,44570105,22219638,1,Young Investment Buyers
+C1434,Corporate,Male,UK,Middle East,Investment,No,28,3240283,3,9158433,24222314,1,Young Investment Buyers
+C1435,Individual,Male,UK,North America,Personal Use,Yes,62,2625525,8,49396651,15774672,2,Premium Property Buyers
+C1436,Individual,Female,Singapore,Middle East,Personal Use,No,54,1430657,7,43237456,17069985,1,Young Investment Buyers
+C1437,Corporate,Female,UK,North America,Investment,Yes,29,1064211,5,38319675,2523106,2,Premium Property Buyers
+C1438,Individual,Male,UAE,North America,Commercial,Yes,43,1045161,10,11150158,23890218,1,Young Investment Buyers
+C1439,Corporate,Female,USA,North India,Personal Use,No,55,2428767,3,38332527,15301713,2,Premium Property Buyers
+C1440,Corporate,Female,UK,Asia Pacific,Personal Use,No,27,2807133,5,25839536,866074,3,Mature Investment Buyers
+C1441,Corporate,Male,UK,North India,Rental,Yes,35,4919523,3,31844000,16696494,1,Young Investment Buyers
+C1442,Corporate,Female,Singapore,South India,Commercial,No,40,3186810,10,25253948,22498826,1,Young Investment Buyers
+C1443,Corporate,Male,UAE,Asia Pacific,Commercial,Yes,45,3945979,5,7837689,12283101,0,High-Value Investment Buyers
+C1444,Investor,Male,USA,West India,Investment,No,23,2794991,1,8488271,677375,3,Mature Investment Buyers
+C1445,Individual,Female,Singapore,South India,Commercial,Yes,44,1897555,6,37292507,20525496,1,Young Investment Buyers
+C1446,Investor,Male,Singapore,Europe,Investment,No,54,153010,10,33100961,12190075,1,Young Investment Buyers
+C1447,Individual,Male,UAE,North India,Rental,Yes,42,1007272,4,35512680,6402232,2,Premium Property Buyers
+C1448,Investor,Male,USA,Middle East,Commercial,No,31,4474984,4,17172190,2727666,3,Mature Investment Buyers
+C1449,Corporate,Male,UAE,North India,Personal Use,Yes,28,2596282,8,27664352,17102752,1,Young Investment Buyers
+C1450,Individual,Male,USA,Middle East,Rental,Yes,59,4174411,2,44907488,22545626,0,High-Value Investment Buyers
+C1451,Individual,Male,UAE,Asia Pacific,Investment,No,63,636364,4,42358719,6900553,2,Premium Property Buyers
+C1452,Investor,Male,Singapore,Europe,Rental,No,55,1003057,2,37294609,10715277,2,Premium Property Buyers
+C1453,Investor,Male,Singapore,Asia Pacific,Investment,Yes,58,1850652,1,18407382,13003969,0,High-Value Investment Buyers
+C1454,Individual,Female,India,Europe,Rental,Yes,28,1723162,10,33497662,6485507,3,Mature Investment Buyers
+C1455,Investor,Female,UK,North India,Investment,Yes,57,4086464,3,29387289,20902369,0,High-Value Investment Buyers
+C1456,Investor,Female,UAE,Middle East,Commercial,Yes,47,4364139,8,22366045,11477809,0,High-Value Investment Buyers
+C1457,Investor,Male,India,Asia Pacific,Personal Use,No,48,2719909,6,27559276,18377836,0,High-Value Investment Buyers
+C1458,Corporate,Male,UK,Europe,Investment,Yes,60,2833864,7,24800143,1508882,2,Premium Property Buyers
+C1459,Corporate,Female,UAE,North America,Rental,Yes,54,763478,2,27446669,9019044,0,High-Value Investment Buyers
+C1460,Investor,Female,USA,South India,Investment,Yes,52,4239524,6,9662608,4783667,0,High-Value Investment Buyers
+C1461,Investor,Female,UK,South India,Investment,No,35,1402970,8,35164828,10564510,1,Young Investment Buyers
+C1462,Corporate,Male,Singapore,Asia Pacific,Investment,Yes,64,2516207,8,11930207,18896746,0,High-Value Investment Buyers
+C1463,Corporate,Female,India,Middle East,Rental,No,37,1090993,4,43212887,4065117,2,Premium Property Buyers
+C1464,Individual,Female,UK,North America,Personal Use,No,53,1688049,6,26853299,17033981,0,High-Value Investment Buyers
+C1465,Individual,Male,UK,Asia Pacific,Commercial,No,36,1059296,5,8336460,8297215,3,Mature Investment Buyers
+C1466,Corporate,Female,Singapore,North India,Personal Use,No,49,1913948,9,39799607,7739967,2,Premium Property Buyers
+C1467,Investor,Male,UAE,Europe,Investment,No,29,362530,8,20036750,5100505,3,Mature Investment Buyers
+C1468,Investor,Male,USA,North India,Rental,No,53,3731097,2,28765303,5843926,2,Premium Property Buyers
+C1469,Investor,Male,Singapore,South India,Personal Use,No,49,2142361,7,16863092,13120315,0,High-Value Investment Buyers
+C1470,Investor,Female,USA,Europe,Investment,Yes,33,317767,7,47081347,897046,2,Premium Property Buyers
+C1471,Individual,Female,UAE,Asia Pacific,Commercial,Yes,41,1209970,1,22914549,5874485,2,Premium Property Buyers
+C1472,Corporate,Male,UK,North India,Commercial,No,41,3970033,1,36866913,23288010,1,Young Investment Buyers
+C1473,Investor,Female,USA,West India,Commercial,Yes,25,746004,4,11588209,19526386,1,Young Investment Buyers
+C1474,Individual,Female,India,Middle East,Investment,Yes,30,287486,5,16374977,11271408,3,Mature Investment Buyers
+C1475,Investor,Female,India,North America,Rental,No,26,1728782,4,33565752,18960631,1,Young Investment Buyers
+C1476,Corporate,Female,Singapore,North America,Personal Use,Yes,33,3488284,7,31762333,3963587,2,Premium Property Buyers
+C1477,Individual,Male,UAE,Middle East,Commercial,No,21,1526360,3,8601817,11959705,3,Mature Investment Buyers
+C1478,Corporate,Female,Singapore,West India,Investment,Yes,40,1833391,7,47267417,12595479,2,Premium Property Buyers
+C1479,Corporate,Male,Singapore,South India,Investment,No,28,466590,8,10616467,14173209,3,Mature Investment Buyers
+C1480,Individual,Male,Singapore,Europe,Personal Use,No,30,194702,6,6203049,611597,3,Mature Investment Buyers
+C1481,Individual,Female,India,Middle East,Commercial,Yes,29,2302661,6,47737243,4867226,2,Premium Property Buyers
+C1482,Individual,Male,India,West India,Investment,Yes,61,4650056,8,27978935,10299987,0,High-Value Investment Buyers
+C1483,Individual,Female,Singapore,Asia Pacific,Personal Use,No,23,1262886,8,29584915,19671235,1,Young Investment Buyers
+C1484,Individual,Female,India,North America,Rental,No,31,4175341,7,30638474,21114043,1,Young Investment Buyers
+C1485,Individual,Male,UAE,West India,Rental,No,32,3029386,6,36917945,5479021,2,Premium Property Buyers
+C1486,Individual,Male,Singapore,South India,Rental,Yes,30,3969108,6,24239113,12564163,3,Mature Investment Buyers
+C1487,Investor,Male,India,South India,Commercial,Yes,45,4853214,10,33797372,22462053,1,Young Investment Buyers
+C1488,Corporate,Male,USA,North India,Personal Use,Yes,45,3363647,6,25318102,4627741,2,Premium Property Buyers
+C1489,Individual,Female,Singapore,Middle East,Personal Use,Yes,31,3117253,8,49951848,16381023,1,Young Investment Buyers
+C1490,Investor,Female,Singapore,North India,Investment,No,56,1058101,1,43330066,14890091,2,Premium Property Buyers
+C1491,Investor,Female,UAE,North America,Investment,No,59,4990618,5,47783212,23375708,0,High-Value Investment Buyers
+C1492,Investor,Male,UK,West India,Investment,No,46,169519,3,28265617,8219161,2,Premium Property Buyers
+C1493,Corporate,Male,UK,Europe,Personal Use,No,34,1060655,8,40174320,13431037,1,Young Investment Buyers
+C1494,Individual,Male,UAE,Europe,Investment,Yes,59,1296688,6,23504602,10759550,0,High-Value Investment Buyers
+C1495,Investor,Female,UAE,South India,Personal Use,No,60,2241924,2,18331521,12961351,0,High-Value Investment Buyers
+C1496,Corporate,Male,UAE,Europe,Personal Use,No,21,2319583,7,5795415,17471418,3,Mature Investment Buyers
+C1497,Corporate,Female,UK,Europe,Rental,Yes,24,3079674,7,36849893,5016025,2,Premium Property Buyers
+C1498,Corporate,Male,UAE,North America,Investment,Yes,50,2392056,5,18127195,12816664,0,High-Value Investment Buyers
+C1499,Investor,Female,India,Europe,Rental,No,32,258988,8,17697499,16516792,3,Mature Investment Buyers
+C1500,Individual,Female,Singapore,West India,Commercial,Yes,55,2711895,5,18864564,19815525,0,High-Value Investment Buyers
